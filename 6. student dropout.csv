@@ -1,0 +1,650 @@
+School,Gender,Age,Address,Family_Size,Parental_Status,Mother_Education,Father_Education,Mother_Job,Father_Job,Reason_for_Choosing_School,Guardian,Travel_Time,Study_Time,Number_of_Failures,School_Support,Family_Support,Extra_Paid_Class,Extra_Curricular_Activities,Attended_Nursery,Wants_Higher_Education,Internet_Access,In_Relationship,Family_Relationship,Free_Time,Going_Out,Weekend_Alcohol_Consumption,Weekday_Alcohol_Consumption,Health_Status,Number_of_Absences,Grade_1,Grade_2,Final_Grade,Dropped_Out
+GP,F,18,U,GT3,A,4,4,At Home,Teacher,Course,Mother,2,2,0,Yes,No,No,No,Yes,Yes,No,No,4,3,4,1,1,3,4,0,11,11,FALSE
+GP,F,17,U,GT3,T,1,1,At Home,Other,Course,Father,1,2,0,No,Yes,No,No,No,Yes,Yes,No,5,3,3,1,1,3,2,9,11,11,FALSE
+GP,F,15,U,LE3,T,1,1,At Home,Other,Other,Mother,1,2,0,Yes,No,No,No,Yes,Yes,Yes,No,4,3,2,2,3,3,6,12,13,12,FALSE
+GP,F,15,U,GT3,T,4,2,Health,Services,Home,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,1,1,5,0,14,14,14,FALSE
+GP,F,16,U,GT3,T,3,3,Other,Other,Home,Father,1,2,0,No,Yes,No,No,Yes,Yes,No,No,4,3,2,1,2,5,0,11,13,13,FALSE
+GP,F,17,U,GT3,A,4,4,Other,Teacher,Home,Mother,2,2,0,Yes,Yes,No,No,Yes,Yes,No,No,4,1,4,1,1,1,2,10,13,13,FALSE
+GP,F,15,U,GT3,T,4,4,Teacher,Health,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,3,3,3,1,2,2,2,14,14,14,FALSE
+GP,F,15,U,GT3,T,2,1,Services,Other,Reputation,Father,3,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,2,2,1,1,4,0,10,12,13,FALSE
+GP,F,16,U,GT3,T,4,4,Health,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,4,1,2,2,6,17,17,17,FALSE
+GP,F,16,U,GT3,T,4,4,Services,Services,Reputation,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,3,2,3,1,2,2,10,13,13,14,FALSE
+GP,F,16,U,GT3,T,3,3,Other,Other,Reputation,Mother,3,2,0,Yes,Yes,No,Yes,Yes,Yes,No,No,5,3,2,1,1,4,2,13,14,14,FALSE
+GP,F,15,R,GT3,T,2,4,Services,Health,Course,Mother,1,3,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,3,2,1,1,5,2,10,11,10,FALSE
+GP,F,16,U,GT3,T,2,2,Services,Services,Home,Mother,1,1,0,No,Yes,No,No,No,Yes,Yes,No,1,2,2,1,3,5,6,10,11,12,FALSE
+GP,F,15,U,GT3,T,2,3,Other,Other,Other,Father,2,1,0,No,Yes,No,Yes,Yes,Yes,No,No,3,5,1,1,1,5,4,11,11,11,FALSE
+GP,F,15,R,GT3,T,3,4,Services,Health,Course,Mother,1,3,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,3,2,1,1,5,2,11,12,12,FALSE
+GP,F,15,R,GT3,T,2,2,At Home,Other,Reputation,Mother,1,1,0,Yes,Yes,No,Yes,Yes,Yes,No,No,4,3,1,1,1,2,8,14,13,12,FALSE
+GP,F,16,U,LE3,T,2,2,Other,Other,Home,Mother,2,2,0,No,Yes,No,Yes,No,Yes,Yes,Yes,3,3,3,1,2,3,16,11,11,10,FALSE
+GP,F,16,U,LE3,T,2,2,Other,At Home,Course,Father,2,2,1,Yes,No,No,Yes,Yes,Yes,Yes,No,4,3,3,2,2,5,14,10,11,11,FALSE
+GP,F,15,U,LE3,A,4,3,Other,Other,Course,Mother,1,2,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,2,2,1,1,5,4,10,11,11,FALSE
+GP,F,16,U,LE3,A,3,3,Other,Services,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,2,3,5,1,4,3,6,13,12,13,FALSE
+GP,F,15,U,GT3,T,4,4,Services,Teacher,Other,Father,1,2,0,Yes,Yes,No,Yes,No,Yes,Yes,No,4,4,4,1,1,3,2,13,12,12,FALSE
+GP,F,16,U,LE3,T,2,2,Services,Services,Course,Mother,3,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,2,3,4,0,14,13,13,FALSE
+GP,F,15,U,LE3,T,4,2,Health,Other,Other,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,5,0,16,14,16,FALSE
+GP,F,15,U,GT3,T,4,4,Services,Services,Course,Mother,1,1,0,Yes,Yes,No,No,Yes,Yes,Yes,No,3,3,4,2,3,5,0,13,12,12,FALSE
+GP,F,15,U,LE3,A,3,3,Other,Other,Other,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,5,3,4,4,4,1,0,13,12,13,FALSE
+GP,F,16,U,GT3,A,2,1,Other,Other,Other,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,4,1,1,2,2,12,13,12,FALSE
+GP,F,15,U,GT3,A,4,3,Services,Services,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,2,1,1,1,0,15,14,15,FALSE
+GP,F,16,U,GT3,T,4,2,Services,Other,Course,Mother,1,2,0,No,Yes,Yes,No,Yes,Yes,Yes,No,4,2,3,1,1,5,2,16,15,16,FALSE
+GP,F,16,R,GT3,T,4,4,Health,Teacher,Other,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,No,No,2,4,4,2,3,4,0,17,16,16,FALSE
+GP,F,16,U,GT3,T,1,1,Services,Services,Course,Father,4,1,0,Yes,Yes,No,Yes,No,Yes,Yes,Yes,5,5,5,5,5,5,0,10,10,16,FALSE
+GP,F,16,U,LE3,T,1,2,Other,Services,Reputation,Father,1,2,0,Yes,No,No,Yes,Yes,Yes,Yes,No,4,4,3,1,1,1,0,13,13,10,FALSE
+GP,F,16,U,GT3,T,4,3,Teacher,Health,Home,Mother,1,3,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3,4,4,2,4,4,0,14,13,13,FALSE
+GP,F,15,U,LE3,T,4,3,Services,Services,Reputation,Father,1,2,0,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,4,4,2,4,2,0,13,12,12,FALSE
+GP,F,16,U,LE3,T,4,3,Teacher,Services,Course,Mother,3,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,3,1,2,1,2,16,15,16,FALSE
+GP,F,16,U,GT3,T,3,1,Services,Other,Course,Mother,1,4,0,Yes,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,2,5,0,10,9,10,FALSE
+GP,F,15,R,LE3,T,2,2,Health,Services,Reputation,Mother,2,2,0,Yes,Yes,No,No,Yes,Yes,Yes,No,4,1,3,1,3,4,0,11,10,11,FALSE
+GP,F,15,R,LE3,T,3,1,Other,Other,Reputation,Father,2,4,0,No,Yes,No,No,No,Yes,Yes,No,4,4,2,2,3,3,6,15,15,15,FALSE
+GP,F,15,R,GT3,T,1,1,Other,Other,Reputation,Mother,1,2,0,Yes,Yes,No,No,No,Yes,Yes,Yes,3,3,4,2,4,5,2,13,11,11,FALSE
+GP,F,16,U,GT3,T,3,3,Other,Services,Home,Mother,1,2,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,2,4,5,4,11,11,11,FALSE
+GP,F,16,U,GT3,T,2,2,Other,Other,Reputation,Mother,1,4,0,No,No,No,No,Yes,Yes,Yes,Yes,5,2,3,1,3,3,1,13,13,13,FALSE
+GP,F,16,U,GT3,T,3,4,At Home,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,2,4,3,1,2,3,14,12,11,11,FALSE
+GP,F,15,U,LE3,T,3,2,Services,Other,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,4,1,1,5,4,12,11,11,FALSE
+GP,F,15,U,GT3,T,1,1,Other,Other,Home,Father,1,2,0,No,Yes,No,Yes,No,Yes,Yes,No,4,3,2,2,3,4,2,13,12,12,FALSE
+GP,F,15,U,GT3,T,4,4,Services,Services,Reputation,Father,2,2,0,No,No,No,No,Yes,Yes,Yes,Yes,4,4,4,2,3,5,4,12,11,12,FALSE
+GP,F,16,U,LE3,T,2,2,At Home,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,No,4,3,4,1,2,2,6,13,11,11,FALSE
+GP,F,15,U,GT3,T,4,2,Other,Other,Reputation,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,3,1,4,15,15,15,FALSE
+GP,F,16,U,GT3,T,3,3,Other,Other,Home,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,3,1,3,4,2,9,11,11,FALSE
+GP,F,15,U,GT3,T,4,3,Services,Other,Reputation,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,5,5,1,3,1,6,14,13,13,FALSE
+GP,F,16,U,LE3,T,3,1,Other,Other,Home,Father,1,2,0,Yes,Yes,No,No,Yes,Yes,No,No,3,3,3,2,3,2,0,12,13,12,FALSE
+GP,F,16,U,GT3,T,4,2,Teacher,Services,Home,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,1,1,2,13,14,14,FALSE
+GP,F,15,R,GT3,T,1,1,At Home,Other,Home,Mother,2,4,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3,1,2,1,1,1,4,13,13,13,FALSE
+GP,F,16,U,GT3,T,2,1,Other,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,Yes,4,3,5,1,1,5,0,13,12,12,FALSE
+GP,F,16,U,GT3,T,4,4,Other,Other,Reputation,Mother,1,1,0,No,No,No,Yes,No,Yes,Yes,No,5,3,4,1,2,1,4,12,13,13,FALSE
+GP,F,16,U,GT3,T,4,3,Other,At Home,Course,Mother,1,3,0,Yes,Yes,No,No,Yes,Yes,Yes,No,5,3,5,1,1,3,2,12,13,13,FALSE
+GP,F,15,U,GT3,T,3,2,Services,Other,Home,Mother,2,2,0,Yes,Yes,No,No,Yes,Yes,Yes,No,4,3,5,1,1,2,16,11,10,10,FALSE
+GP,F,15,U,GT3,A,3,3,Other,Health,Reputation,Father,1,4,0,Yes,No,No,No,Yes,Yes,No,No,4,3,3,1,1,4,10,10,10,10,FALSE
+GP,F,15,U,GT3,T,2,2,Other,Other,Course,Mother,1,4,0,Yes,Yes,No,No,Yes,Yes,Yes,No,5,1,2,1,1,3,4,10,10,10,FALSE
+GP,F,16,U,LE3,T,4,4,Health,Health,Other,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,5,1,1,4,2,15,15,14,FALSE
+GP,F,16,R,GT3,T,3,3,Services,Other,Reputation,Father,1,3,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,1,2,1,1,2,4,11,11,11,FALSE
+GP,F,16,U,GT3,T,2,2,At Home,Other,Home,Mother,1,2,1,Yes,No,No,Yes,Yes,Yes,Yes,No,3,1,2,1,1,5,12,8,10,10,FALSE
+GP,F,15,U,GT3,T,1,2,At Home,Services,Course,Mother,1,2,0,No,No,No,No,No,Yes,Yes,No,3,2,3,1,2,1,0,14,14,14,FALSE
+GP,F,16,U,LE3,T,2,4,Other,Health,Course,Father,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,1,2,5,2,14,12,13,FALSE
+GP,F,16,U,GT3,T,2,2,Other,Other,Home,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,Yes,5,4,4,1,1,5,0,12,11,11,FALSE
+GP,F,15,U,LE3,A,3,4,Other,Other,Home,Mother,1,2,0,Yes,No,No,Yes,Yes,Yes,Yes,Yes,5,3,2,1,1,1,0,10,11,11,FALSE
+GP,F,19,U,GT3,T,0,1,At Home,Other,Course,Other,1,2,2,No,Yes,No,No,No,No,No,No,3,4,2,1,1,5,0,9,10,11,FALSE
+GP,F,15,R,GT3,T,3,4,Services,Teacher,Course,Father,2,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,2,2,2,2,5,0,10,11,12,FALSE
+GP,F,18,U,GT3,T,2,1,Services,Other,Reputation,Mother,1,2,3,No,Yes,No,Yes,Yes,No,Yes,Yes,5,4,5,1,3,5,10,10,9,8,TRUE
+GP,F,17,U,LE3,A,2,1,Other,Other,Course,Mother,3,1,0,No,Yes,No,No,Yes,Yes,Yes,No,3,2,2,1,2,5,8,11,10,11,FALSE
+GP,F,15,U,GT3,T,1,1,At Home,Other,Course,Mother,3,1,0,No,Yes,No,Yes,No,Yes,Yes,Yes,4,3,3,1,2,4,6,11,12,13,FALSE
+GP,F,17,U,LE3,T,2,2,Other,Other,Course,Father,1,1,0,No,Yes,No,No,Yes,Yes,Yes,Yes,3,4,4,1,3,5,2,13,12,12,FALSE
+GP,F,16,U,GT3,A,3,4,Services,Other,Course,Father,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,2,1,1,4,5,12,15,13,14,FALSE
+GP,F,16,U,GT3,A,2,2,Other,Other,Home,Mother,1,1,1,No,No,No,No,Yes,Yes,No,No,5,3,4,1,1,5,12,13,11,11,FALSE
+GP,F,15,U,GT3,T,4,4,Services,At Home,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,3,1,1,5,4,13,14,15,FALSE
+GP,F,16,R,GT3,T,1,1,At Home,Other,Course,Mother,4,2,0,No,Yes,No,No,Yes,Yes,No,No,5,1,3,1,1,3,0,14,13,13,FALSE
+GP,F,18,U,GT3,A,3,2,Other,Services,Course,Other,1,3,0,No,Yes,No,Yes,No,Yes,Yes,Yes,4,3,3,5,1,5,10,12,11,11,FALSE
+GP,F,16,R,GT3,T,1,1,Other,Services,Reputation,Mother,2,1,0,No,Yes,No,Yes,Yes,Yes,No,Yes,3,3,3,1,2,1,8,12,11,11,FALSE
+GP,F,16,U,GT3,A,3,3,Other,Other,Course,Other,2,1,0,No,Yes,No,Yes,No,Yes,Yes,Yes,4,3,2,1,1,5,4,9,9,10,FALSE
+GP,F,15,U,GT3,T,4,4,Teacher,Teacher,Course,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,3,2,1,1,5,6,13,14,14,FALSE
+GP,F,15,R,GT3,T,1,1,Other,Other,Course,Mother,3,1,1,No,No,No,Yes,Yes,Yes,Yes,Yes,5,5,5,1,1,1,2,8,9,9,TRUE
+GP,F,15,U,GT3,A,3,3,Services,Services,Home,Mother,1,2,0,No,No,No,No,No,Yes,No,Yes,1,3,2,2,3,1,24,9,8,9,TRUE
+GP,F,15,U,GT3,T,4,4,Teacher,Services,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,2,1,1,5,2,13,13,13,FALSE
+GP,F,16,U,LE3,T,1,1,At Home,At Home,Course,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,4,4,3,3,1,4,10,11,11,FALSE
+GP,F,15,U,GT3,T,1,1,Other,Services,Course,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,2,1,2,5,0,12,12,12,FALSE
+GP,F,15,U,LE3,A,2,1,At Home,Other,Home,Mother,2,1,0,No,Yes,No,Yes,Yes,No,Yes,Yes,4,4,2,1,1,5,0,11,10,10,FALSE
+GP,F,15,U,GT3,T,3,2,Health,Services,Home,Father,1,2,1,No,Yes,No,No,Yes,Yes,Yes,No,3,3,2,1,1,3,2,11,11,11,FALSE
+GP,F,15,U,GT3,T,1,2,At Home,Other,Course,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,No,4,3,2,1,1,5,6,13,12,13,FALSE
+GP,F,15,U,GT3,T,1,2,At Home,Services,Course,Father,1,2,0,No,No,No,No,No,Yes,No,Yes,2,3,4,2,4,1,6,11,11,11,FALSE
+GP,F,15,R,GT3,T,3,3,Services,Services,Reputation,Other,2,3,0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,2,1,2,3,3,2,13,13,13,FALSE
+GP,F,17,U,GT3,T,4,4,Other,Teacher,Course,Mother,1,1,0,Yes,Yes,No,No,Yes,Yes,No,Yes,4,2,1,1,1,4,0,13,13,13,FALSE
+GP,F,18,R,GT3,T,1,1,At Home,Other,Course,Mother,3,1,3,No,Yes,No,Yes,No,Yes,No,No,5,2,5,1,5,4,6,11,10,11,FALSE
+GP,F,16,U,GT3,T,4,2,Health,Services,Home,Father,1,2,0,No,No,No,No,Yes,Yes,Yes,Yes,4,2,3,1,1,3,0,17,17,18,FALSE
+GP,F,16,U,GT3,T,2,2,Other,Other,Home,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,No,5,1,5,1,1,4,0,12,12,13,FALSE
+GP,F,16,U,GT3,T,4,4,Health,Health,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,4,2,1,1,3,0,16,16,17,FALSE
+GP,F,16,U,GT3,T,1,3,At Home,Services,Home,Mother,1,2,0,No,No,No,Yes,No,Yes,Yes,Yes,4,3,5,1,1,3,0,14,13,13,FALSE
+GP,F,16,U,LE3,T,3,3,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,4,5,1,1,4,0,14,14,15,FALSE
+GP,F,16,U,GT3,T,2,2,Services,Other,Reputation,Mother,2,2,0,No,No,No,Yes,No,Yes,Yes,No,3,4,4,1,4,5,0,13,12,14,FALSE
+GP,F,17,U,GT3,T,2,4,Services,Services,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,No,No,5,4,2,2,3,5,0,17,18,17,FALSE
+GP,F,17,U,LE3,T,3,3,Other,Other,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,3,3,2,3,1,32,14,13,14,FALSE
+GP,F,16,U,GT3,T,3,2,Other,Other,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,1,2,2,1,2,1,8,14,15,16,FALSE
+GP,F,17,U,GT3,A,3,3,Health,Other,Reputation,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,Yes,3,3,3,1,3,3,10,12,13,14,FALSE
+GP,F,16,U,GT3,T,2,3,Services,Services,Course,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,No,4,3,3,1,1,2,6,12,12,13,FALSE
+GP,F,17,U,GT3,T,1,1,At Home,Services,Course,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,5,3,3,1,1,3,0,12,11,12,FALSE
+GP,F,17,U,LE3,T,2,4,Services,Services,Course,Father,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,2,1,1,5,8,14,15,16,FALSE
+GP,F,17,U,GT3,T,4,4,Services,Teacher,Home,Mother,2,1,1,No,Yes,No,No,Yes,Yes,Yes,No,4,2,4,2,3,2,30,14,15,16,FALSE
+GP,F,16,U,LE3,T,4,4,Teacher,Teacher,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,5,2,1,2,3,0,11,10,11,FALSE
+GP,F,16,U,GT3,T,4,3,Health,Other,Home,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,5,1,5,2,2,14,14,15,FALSE
+GP,F,16,U,GT3,T,2,3,Other,Other,Reputation,Mother,1,2,0,Yes,Yes,No,Yes,Yes,Yes,No,No,4,4,3,1,3,4,4,11,12,12,FALSE
+GP,F,17,U,GT3,T,1,1,Other,Other,Course,Mother,1,2,0,No,Yes,No,No,No,Yes,No,No,4,4,4,1,3,1,0,14,15,15,FALSE
+GP,F,17,R,GT3,T,2,2,Other,Other,Reputation,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,5,3,2,1,2,3,21,13,13,13,FALSE
+GP,F,16,R,GT3,T,2,2,Services,Services,Reputation,Mother,2,4,0,No,Yes,No,Yes,No,Yes,Yes,No,5,3,5,1,1,5,6,13,13,13,FALSE
+GP,F,17,U,GT3,T,3,4,At Home,Services,Home,Mother,1,3,1,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4,4,3,3,4,5,14,8,9,8,TRUE
+GP,F,16,U,GT3,A,3,1,Services,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,2,3,3,2,2,4,2,11,11,12,FALSE
+GP,F,16,U,GT3,T,4,3,Teacher,Other,Other,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,1,3,2,1,1,1,4,14,15,15,FALSE
+GP,F,16,U,GT3,T,1,1,At Home,Other,Home,Mother,2,1,0,No,Yes,No,No,Yes,Yes,No,No,4,3,2,1,4,5,2,12,13,13,FALSE
+GP,F,17,R,GT3,T,4,3,Teacher,Other,Reputation,Mother,2,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,2,1,1,4,0,11,12,12,FALSE
+GP,F,19,U,GT3,T,3,3,Other,Other,Reputation,Other,1,4,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,1,2,3,4,12,12,12,FALSE
+GP,F,16,U,GT3,A,2,2,Other,Other,Reputation,Mother,1,2,0,Yes,Yes,No,No,Yes,Yes,Yes,No,3,3,4,1,1,4,0,13,13,13,FALSE
+GP,F,17,R,LE3,T,4,4,Services,Other,Other,Mother,1,1,0,No,Yes,No,No,Yes,Yes,No,No,5,2,1,1,2,3,6,12,11,11,FALSE
+GP,F,17,U,LE3,T,3,2,Other,Other,Reputation,Mother,2,2,0,No,No,No,No,Yes,Yes,Yes,No,4,4,4,1,3,1,2,14,16,15,FALSE
+GP,F,17,U,GT3,T,4,3,Other,Other,Reputation,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,Yes,3,4,5,2,4,1,16,11,9,10,FALSE
+GP,F,17,U,GT3,T,2,3,At Home,Other,Home,Father,2,1,0,No,Yes,No,No,Yes,Yes,No,No,3,3,3,1,4,3,4,12,13,13,FALSE
+GP,F,17,U,GT3,T,2,2,At Home,At Home,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,1,1,4,0,12,12,13,FALSE
+GP,F,17,R,GT3,T,2,1,At Home,Services,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,5,1,2,5,0,11,10,11,FALSE
+GP,F,17,U,GT3,T,1,1,At Home,Other,Reputation,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,No,Yes,4,3,4,1,1,5,12,12,12,12,FALSE
+GP,F,16,U,GT3,T,2,3,Services,Teacher,Other,Mother,1,2,0,Yes,No,No,No,Yes,Yes,Yes,No,2,3,1,1,1,3,0,13,13,14,FALSE
+GP,F,16,U,GT3,T,4,4,Teacher,Services,Home,Mother,1,3,0,No,Yes,No,Yes,No,Yes,Yes,No,5,3,2,1,1,5,4,15,16,16,FALSE
+GP,F,18,R,GT3,T,3,1,Other,Other,Reputation,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,3,1,1,4,4,8,8,8,TRUE
+GP,F,17,U,GT3,T,3,2,Other,Other,Course,Mother,1,2,0,No,No,No,Yes,No,Yes,Yes,No,5,3,4,1,3,3,2,17,18,17,FALSE
+GP,F,17,U,GT3,A,2,1,Other,Other,Course,Mother,2,3,0,No,No,No,Yes,Yes,Yes,Yes,Yes,3,2,3,1,2,3,0,15,15,16,FALSE
+GP,F,17,U,LE3,T,4,3,Health,Other,Reputation,Father,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,3,2,3,1,2,3,0,14,12,12,FALSE
+GP,F,16,U,GT3,T,2,1,Other,Other,Home,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,Yes,4,5,2,1,1,5,4,9,10,10,FALSE
+GP,F,16,U,GT3,A,4,1,Other,Other,Home,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,3,1,2,5,0,14,13,13,FALSE
+GP,F,18,U,LE3,A,2,4,Services,Other,Course,Mother,2,2,1,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,3,18,10,10,10,FALSE
+GP,F,18,U,LE3,T,2,2,At Home,Services,Course,Mother,1,2,1,No,Yes,No,No,No,Yes,Yes,Yes,5,3,1,1,1,5,16,9,8,10,FALSE
+GP,F,18,U,GT3,T,3,3,Other,Other,Course,Mother,2,1,1,No,No,No,No,Yes,No,Yes,No,4,1,1,1,1,3,14,8,7,7,TRUE
+GP,F,17,U,GT3,T,3,2,Other,Other,Course,Father,1,2,0,No,No,No,Yes,Yes,Yes,No,No,5,4,2,1,1,3,4,14,14,15,FALSE
+GP,F,17,U,LE3,T,1,1,At Home,At Home,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,2,1,2,4,10,11,10,10,FALSE
+GP,F,16,U,GT3,T,1,2,Other,Other,Course,Mother,1,1,0,No,No,No,No,Yes,No,Yes,No,5,3,5,1,2,5,4,12,11,11,FALSE
+GP,F,17,R,GT3,T,2,1,At Home,Services,Course,Mother,3,2,0,No,No,No,Yes,Yes,Yes,No,No,2,1,1,1,1,3,2,13,13,13,FALSE
+GP,F,17,R,LE3,A,1,4,Other,Other,Course,Other,4,1,1,No,Yes,No,No,Yes,Yes,Yes,No,5,5,4,1,1,5,14,9,9,8,TRUE
+GP,F,17,U,LE3,A,2,2,Other,Other,Home,Mother,1,1,1,No,Yes,No,No,No,No,Yes,No,3,1,2,1,1,1,8,11,9,10,FALSE
+GP,F,17,R,LE3,T,1,1,At Home,Other,Course,Mother,2,3,0,No,No,No,Yes,Yes,Yes,Yes,No,4,3,3,1,3,5,4,15,14,15,FALSE
+GP,F,17,U,LE3,A,4,2,Teacher,Other,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,No,No,4,3,2,1,1,4,4,15,14,14,FALSE
+GP,F,17,U,GT3,T,4,4,Teacher,Services,Course,Mother,1,2,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,5,3,1,1,4,5,2,11,11,12,FALSE
+GP,F,17,U,GT3,T,3,3,Services,Other,Home,Mother,2,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,2,2,2,3,5,10,11,11,11,FALSE
+GP,F,17,U,GT3,T,1,1,At Home,Other,Course,Mother,1,2,0,Yes,No,No,No,No,Yes,No,Yes,4,3,2,1,1,4,10,10,9,10,FALSE
+GP,F,18,U,GT3,T,2,1,Other,Other,Course,Other,2,3,0,No,Yes,No,No,No,Yes,Yes,Yes,4,4,4,1,1,3,10,12,10,11,FALSE
+GP,F,17,U,GT3,T,1,1,Other,Services,Course,Father,1,2,0,No,Yes,No,No,Yes,Yes,No,No,4,3,4,1,2,5,4,11,10,11,FALSE
+GP,F,18,U,LE3,A,2,1,Other,Other,Course,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,Yes,4,3,4,1,3,5,2,12,12,13,FALSE
+GP,F,17,U,LE3,T,4,2,Teacher,Services,Reputation,Mother,1,4,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,3,1,1,4,2,14,15,17,FALSE
+GP,F,19,U,GT3,T,2,2,Services,Services,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,5,0,10,10,11,FALSE
+GP,F,17,R,GT3,T,4,2,Other,Other,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,4,1,3,5,2,11,12,14,FALSE
+GP,F,18,U,LE3,T,1,1,Other,At Home,Home,Mother,1,3,0,No,Yes,No,No,No,Yes,No,No,4,4,3,2,3,3,4,11,12,14,FALSE
+GP,F,18,R,GT3,T,2,2,Other,Other,Home,Mother,1,2,0,Yes,No,No,No,Yes,Yes,No,No,3,2,3,1,1,5,4,11,11,13,FALSE
+GP,F,17,U,LE3,T,2,2,Services,Services,Course,Father,1,4,0,No,No,No,Yes,Yes,Yes,Yes,Yes,3,4,1,1,1,2,2,10,11,12,FALSE
+GP,F,20,R,GT3,T,2,1,Other,Other,Course,Other,2,2,0,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1,2,3,1,2,2,8,10,12,12,FALSE
+GP,F,18,U,GT3,T,4,3,Services,Other,Home,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,3,1,2,1,3,2,2,15,15,15,FALSE
+GP,F,17,U,GT3,T,3,3,Other,Other,Home,Mother,1,3,0,No,No,No,Yes,No,Yes,No,No,3,2,3,1,1,4,2,15,12,13,FALSE
+GP,F,18,U,GT3,T,2,2,At Home,Services,Home,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,3,1,1,3,0,11,12,13,FALSE
+GP,F,18,R,GT3,T,4,4,Teacher,Other,Reputation,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,No,4,3,4,2,2,4,8,10,11,12,FALSE
+GP,F,18,R,GT3,T,2,1,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,No,Yes,No,Yes,Yes,4,3,5,1,2,3,12,8,9,10,FALSE
+GP,F,19,U,GT3,T,3,3,Other,Services,Home,Other,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,5,3,3,5,16,11,12,12,FALSE
+GP,F,18,U,GT3,T,2,3,Other,Services,Reputation,Father,1,4,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,5,5,1,3,2,10,16,16,16,FALSE
+GP,F,18,U,LE3,T,1,1,Other,Other,Home,Mother,2,2,0,No,Yes,No,No,No,Yes,No,No,4,4,3,1,1,3,2,13,13,13,FALSE
+GP,F,18,U,GT3,T,2,1,Other,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,2,5,1,2,1,8,14,14,15,FALSE
+GP,F,17,U,GT3,T,2,4,At Home,Health,Reputation,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,3,1,1,1,6,15,16,16,FALSE
+GP,F,17,U,LE3,T,2,2,Services,Other,Course,Mother,2,2,0,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,4,4,2,3,5,6,12,12,12,FALSE
+GP,F,18,R,GT3,A,3,2,Other,Services,Home,Mother,2,2,0,No,No,No,No,No,No,Yes,Yes,4,1,1,1,1,5,15,12,9,10,FALSE
+GP,F,18,U,GT3,T,4,4,Health,Health,Reputation,Father,1,2,1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,1,1,4,2,14,12,13,FALSE
+GP,F,17,U,GT3,T,2,2,Other,Services,Reputation,Father,3,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,2,3,1,1,1,8,13,15,15,FALSE
+GP,F,19,R,GT3,T,3,2,Services,Services,Reputation,Father,1,2,1,Yes,Yes,No,No,Yes,No,Yes,No,3,3,3,4,3,3,0,9,8,10,FALSE
+GP,F,18,R,LE3,T,1,1,At Home,Other,Reputation,Mother,2,4,0,No,Yes,No,Yes,Yes,Yes,No,No,5,2,2,1,1,3,2,17,17,18,FALSE
+GP,F,18,U,GT3,T,1,1,Other,Other,Home,Mother,2,2,0,Yes,No,No,Yes,Yes,Yes,Yes,No,5,4,4,1,1,4,0,12,13,13,FALSE
+GP,F,17,U,GT3,T,2,2,Other,Other,Course,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,No,5,4,5,1,2,5,12,12,12,14,FALSE
+GP,F,18,U,GT3,T,2,1,Other,Other,Reputation,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,1,1,1,5,10,12,13,14,FALSE
+GP,F,18,U,GT3,T,2,2,At Home,At Home,Other,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,2,2,0,18,18,18,FALSE
+GP,F,17,U,GT3,T,1,1,Services,Teacher,Reputation,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,3,0,13,13,14,FALSE
+GP,F,17,U,GT3,T,4,3,Health,Services,Reputation,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,2,2,1,2,3,0,17,18,18,FALSE
+GP,F,17,R,LE3,T,3,1,Services,Other,Reputation,Mother,2,4,0,No,Yes,No,No,Yes,Yes,No,No,3,1,2,1,1,3,0,18,19,19,FALSE
+GP,F,19,U,GT3,T,4,4,Health,Other,Reputation,Other,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,2,3,4,2,3,2,2,14,13,13,FALSE
+GP,F,18,U,LE3,T,4,3,Other,Other,Home,Other,2,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,4,5,1,2,2,0,13,14,14,FALSE
+GP,F,18,U,GT3,T,4,3,Other,Other,Reputation,Father,1,4,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,3,0,16,17,17,FALSE
+GP,F,18,U,LE3,A,4,4,Health,Other,Home,Mother,1,2,0,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4,2,4,1,1,4,0,14,15,15,FALSE
+GP,F,17,R,GT3,T,4,4,Services,Services,Reputation,Mother,2,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,4,1,1,5,0,7,7,8,TRUE
+GP,F,17,U,GT3,T,4,2,Other,Other,Reputation,Mother,2,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,1,3,0,16,16,16,FALSE
+GP,F,17,U,GT3,T,3,2,Health,Health,Reputation,Father,1,4,0,No,Yes,No,Yes,No,Yes,Yes,No,5,2,2,1,2,5,0,18,18,18,FALSE
+GP,F,18,U,GT3,T,1,4,Other,Teacher,Home,Mother,1,2,0,Yes,Yes,No,No,No,Yes,No,Yes,3,4,4,1,2,5,2,10,10,11,FALSE
+GP,F,18,U,GT3,T,2,1,Services,Other,Course,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,2,1,2,12,12,15,FALSE
+GP,F,17,U,GT3,T,2,3,Other,Other,Course,Father,2,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,1,1,1,3,2,11,12,14,FALSE
+GP,F,17,R,GT3,T,4,4,Teacher,Teacher,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,4,4,1,1,5,2,15,16,17,FALSE
+GP,F,18,U,GT3,T,4,3,Other,Other,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,4,1,1,5,2,14,15,17,FALSE
+GP,F,18,U,LE3,T,4,3,Health,Services,Course,Mother,2,1,0,No,Yes,No,No,Yes,Yes,Yes,No,3,2,4,1,4,1,8,12,12,15,FALSE
+GP,F,17,R,GT3,T,3,4,At Home,Services,Course,Father,1,3,0,No,Yes,No,Yes,No,Yes,Yes,No,4,3,4,2,5,5,2,15,15,17,FALSE
+GP,F,18,U,GT3,T,3,3,At Home,Other,Course,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,1,4,1,1,3,8,11,12,14,FALSE
+GP,F,18,U,GT3,T,4,4,Teacher,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,4,3,3,5,0,12,11,13,FALSE
+GP,F,18,U,GT3,T,3,4,Other,Other,Course,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,4,1,1,1,4,11,12,14,FALSE
+GP,F,17,U,GT3,T,4,4,Health,Health,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,5,3,4,1,2,5,2,14,15,17,FALSE
+GP,F,17,U,GT3,A,4,3,Services,Services,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,2,2,1,2,5,14,15,14,17,FALSE
+GP,F,17,U,LE3,A,3,3,Services,Other,Home,Mother,1,2,0,Yes,Yes,No,No,Yes,Yes,Yes,No,5,3,3,1,1,5,0,12,12,13,FALSE
+GP,F,17,U,LE3,T,2,1,Other,Other,Home,Father,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,4,2,3,2,2,2,2,11,12,14,FALSE
+GP,F,19,U,GT3,T,1,1,Other,Other,Course,Other,3,3,0,No,No,No,Yes,Yes,No,No,Yes,1,5,5,4,3,5,12,10,10,11,FALSE
+GP,F,19,U,LE3,A,1,1,Other,Other,Course,Other,3,2,2,No,Yes,No,No,No,Yes,Yes,Yes,5,3,4,1,1,4,2,8,8,9,TRUE
+GP,F,18,U,GT3,T,2,2,Other,Other,Course,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,5,2,4,5,2,10,10,10,FALSE
+GP,F,17,U,GT3,T,2,2,Other,Other,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,Yes,4,2,2,1,1,3,4,14,13,13,FALSE
+GP,F,17,R,LE3,T,2,2,Services,Services,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,3,3,2,2,2,3,0,11,11,10,FALSE
+GP,F,17,U,GT3,T,3,1,Services,Services,Course,Father,1,3,0,No,Yes,No,No,No,Yes,Yes,No,3,4,3,2,3,5,0,17,18,17,FALSE
+GP,F,17,U,LE3,T,0,2,At Home,At Home,Home,Father,2,3,0,No,No,No,No,Yes,Yes,Yes,No,3,3,3,2,3,2,0,14,14,15,FALSE
+GP,F,18,U,GT3,T,1,1,Other,Other,Home,Mother,2,3,0,No,No,No,Yes,Yes,Yes,Yes,No,4,5,5,1,2,2,0,14,14,14,FALSE
+GP,F,17,U,GT3,T,4,4,Teacher,Services,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,4,1,3,4,0,13,12,13,FALSE
+GP,F,17,U,GT3,T,4,4,Teacher,Teacher,Course,Mother,2,3,0,No,Yes,No,No,No,Yes,Yes,Yes,4,3,3,1,2,4,4,15,14,15,FALSE
+GP,F,17,U,GT3,T,3,3,At Home,Other,Course,Mother,1,1,0,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4,2,5,2,5,5,2,11,12,11,FALSE
+GP,F,18,U,GT3,T,2,2,At Home,Other,Course,Mother,4,2,0,No,No,No,Yes,Yes,Yes,No,Yes,4,2,5,1,1,2,2,10,9,10,FALSE
+GP,F,17,R,GT3,T,2,4,At Home,Other,Course,Father,1,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,4,3,1,1,5,0,15,15,15,FALSE
+GP,F,18,U,GT3,T,3,3,Services,Services,Home,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,5,3,4,1,1,4,8,10,11,12,FALSE
+GP,F,18,U,LE3,T,2,2,Other,Other,Home,Other,1,2,0,No,No,No,Yes,No,Yes,Yes,Yes,4,3,3,1,1,2,0,10,9,12,FALSE
+GP,F,18,R,GT3,T,2,2,At Home,Other,Course,Mother,2,4,0,No,No,No,Yes,Yes,Yes,No,No,4,4,4,1,1,4,6,14,13,14,FALSE
+GP,F,17,U,GT3,T,3,4,Services,Other,Course,Mother,1,3,0,No,No,No,No,Yes,Yes,Yes,No,4,4,5,1,3,5,8,11,13,14,FALSE
+GP,F,17,U,GT3,T,3,2,Other,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,2,2,3,2,0,12,13,15,FALSE
+GP,F,18,U,LE3,T,3,3,Services,Services,Home,Mother,1,4,0,No,Yes,No,No,Yes,Yes,Yes,No,5,3,3,1,1,1,4,14,14,15,FALSE
+GP,F,17,R,GT3,A,3,2,Other,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,2,3,2,0,14,14,16,FALSE
+GP,F,17,U,GT3,A,2,2,At Home,At Home,Home,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,3,3,1,1,2,4,18,10,12,14,FALSE
+GP,F,18,U,GT3,T,2,3,At Home,Other,Course,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,2,3,0,11,12,14,FALSE
+GP,F,18,U,GT3,T,3,2,Other,Services,Other,Mother,1,3,0,No,No,No,No,Yes,Yes,Yes,Yes,5,4,3,2,3,1,4,14,16,17,FALSE
+GP,F,17,U,GT3,T,4,3,Health,Other,Reputation,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,3,1,3,4,0,11,12,13,FALSE
+GP,F,17,U,GT3,T,2,1,Services,Other,Course,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,4,2,2,1,10,12,15,15,FALSE
+GP,F,17,U,GT3,T,2,1,Services,Other,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,5,2,4,4,4,12,16,16,FALSE
+GP,F,19,U,LE3,A,2,3,At Home,Other,Home,Other,2,1,1,No,No,No,No,Yes,No,Yes,No,2,2,3,3,4,5,16,10,11,11,FALSE
+GP,F,17,U,GT3,T,3,1,Other,At Home,Home,Mother,1,1,1,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4,1,2,1,1,3,6,10,13,13,FALSE
+GP,F,21,U,LE3,T,4,4,Other,Other,Reputation,Other,1,3,2,No,No,Yes,Yes,Yes,Yes,Yes,No,3,3,2,1,1,5,0,9,12,12,FALSE
+GP,F,17,U,GT3,T,2,2,Services,Services,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,4,1,3,4,0,13,17,17,FALSE
+GP,F,18,U,LE3,T,4,2,Teacher,Other,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,2,1,1,3,0,14,17,17,FALSE
+GP,F,20,R,GT3,T,1,1,Other,Other,Reputation,Other,2,3,0,No,No,No,No,Yes,Yes,Yes,Yes,3,2,2,1,3,3,8,11,15,15,FALSE
+GP,F,19,U,GT3,T,4,4,Teacher,Other,Home,Other,1,1,1,No,Yes,No,No,Yes,Yes,Yes,Yes,3,2,5,4,4,5,5,9,10,11,FALSE
+GP,F,18,U,GT3,T,3,2,At Home,Other,Reputation,Father,1,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,4,1,2,2,5,14,17,17,FALSE
+GP,F,18,U,LE3,A,2,2,Services,Other,Reputation,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,1,4,1,3,4,10,14,17,17,FALSE
+GP,F,20,U,GT3,T,1,0,Other,Other,Reputation,Mother,2,1,1,Yes,No,No,No,Yes,Yes,Yes,Yes,5,3,1,1,1,5,5,8,10,10,FALSE
+GP,F,18,U,GT3,T,3,2,Services,Other,Home,Mother,1,2,0,No,Yes,No,Yes,No,Yes,Yes,Yes,3,1,2,1,2,1,4,10,13,13,FALSE
+GP,M,16,U,LE3,T,4,3,Services,Other,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,2,1,2,5,6,12,12,13,FALSE
+GP,M,16,U,LE3,T,2,2,Other,Other,Home,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,No,4,4,4,1,1,3,0,13,12,13,FALSE
+GP,M,15,U,LE3,A,3,2,Services,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,2,2,1,1,1,0,15,16,17,FALSE
+GP,M,15,U,GT3,T,3,4,Other,Other,Home,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,5,1,1,1,5,0,12,12,13,FALSE
+GP,M,15,U,LE3,T,4,4,Health,Services,Course,Father,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,1,3,5,0,12,13,12,FALSE
+GP,M,15,U,GT3,T,4,3,Teacher,Other,Course,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,5,4,3,1,2,3,0,12,12,13,FALSE
+GP,M,15,U,GT3,A,2,2,Other,Other,Home,Other,1,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,5,2,1,1,3,0,14,14,15,FALSE
+GP,M,17,U,GT3,T,3,2,Services,Services,Course,Mother,1,1,3,No,Yes,Yes,Yes,Yes,Yes,Yes,No,5,5,5,2,4,5,2,8,8,7,TRUE
+GP,M,16,U,LE3,T,4,3,Health,Other,Home,Father,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,3,1,3,1,3,5,6,12,12,12,FALSE
+GP,M,15,U,GT3,T,4,3,Teacher,Other,Reputation,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,No,4,4,1,1,1,1,0,12,13,14,FALSE
+GP,M,15,U,GT3,T,4,4,Health,Health,Other,Father,1,1,0,No,Yes,Yes,No,Yes,Yes,Yes,No,5,4,2,1,1,5,0,11,12,12,FALSE
+GP,M,16,U,LE3,T,4,2,Teacher,Other,Course,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,4,5,1,1,3,5,0,12,13,14,FALSE
+GP,M,16,U,LE3,T,2,2,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,4,2,4,5,2,10,10,10,FALSE
+GP,M,15,U,GT3,T,2,2,Other,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,2,2,1,2,5,8,11,12,12,FALSE
+GP,M,15,U,GT3,T,4,2,Health,Services,Other,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,2,2,4,2,4,1,0,11,11,11,FALSE
+GP,M,16,U,LE3,A,3,4,Services,Other,Home,Mother,1,2,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5,3,3,1,1,5,2,12,12,13,FALSE
+GP,M,16,U,GT3,T,4,4,Teacher,Teacher,Home,Mother,1,2,0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,4,5,5,5,5,4,12,11,12,FALSE
+GP,M,15,U,GT3,T,4,4,Health,Services,Home,Mother,1,2,0,No,Yes,Yes,No,No,Yes,Yes,No,5,4,2,3,4,5,0,10,11,11,FALSE
+GP,M,15,U,GT3,T,4,4,Services,Services,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,1,1,1,5,2,15,15,15,FALSE
+GP,M,15,R,GT3,T,4,3,Teacher,At Home,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,5,2,1,1,5,0,13,14,15,FALSE
+GP,M,15,U,LE3,T,3,3,Other,Other,Course,Mother,1,2,0,No,No,No,Yes,No,Yes,Yes,No,5,3,2,1,1,2,0,13,12,12,FALSE
+GP,M,16,U,GT3,T,3,2,Other,Other,Home,Mother,1,1,0,No,Yes,No,No,No,Yes,Yes,No,5,4,3,1,1,5,4,12,12,12,FALSE
+GP,M,15,U,LE3,T,4,3,Teacher,Services,Home,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,3,1,1,4,0,14,14,14,FALSE
+GP,M,16,R,GT3,A,4,4,Other,Teacher,Reputation,Mother,2,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,3,1,1,5,4,13,13,13,FALSE
+GP,M,15,U,LE3,T,4,4,Teacher,Other,Home,Other,1,1,0,No,Yes,No,No,No,Yes,Yes,Yes,5,4,3,2,4,5,8,10,11,11,FALSE
+GP,M,15,U,GT3,T,4,4,Services,Teacher,Course,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,1,1,5,0,14,15,15,FALSE
+GP,M,15,U,GT3,T,2,2,Services,Services,Course,Father,1,1,0,Yes,Yes,No,No,Yes,Yes,Yes,No,5,4,1,1,1,1,0,9,10,10,FALSE
+GP,M,16,U,GT3,T,4,3,Health,Services,Reputation,Mother,1,4,0,No,No,No,Yes,Yes,Yes,Yes,No,4,2,2,1,1,2,2,17,17,17,FALSE
+GP,M,15,U,GT3,T,4,2,Teacher,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,No,4,3,3,2,2,5,4,11,12,13,FALSE
+GP,M,15,U,LE3,A,4,2,Health,Health,Other,Father,2,1,0,No,No,No,No,Yes,Yes,No,No,5,5,5,3,4,5,4,10,9,9,TRUE
+GP,M,15,U,GT3,T,4,4,Teacher,Health,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,No,No,3,2,2,1,1,5,8,15,15,16,FALSE
+GP,M,15,U,LE3,T,1,2,Other,At Home,Home,Father,1,2,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,3,2,1,1,5,0,14,13,14,FALSE
+GP,M,15,U,GT3,A,4,4,Other,Services,Reputation,Mother,1,4,0,No,Yes,No,Yes,No,Yes,Yes,Yes,1,3,3,5,5,3,0,11,12,12,FALSE
+GP,M,16,U,GT3,T,3,1,Other,Other,Reputation,Father,2,4,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,2,1,1,5,2,13,11,11,FALSE
+GP,M,15,U,GT3,T,4,2,Other,Other,Course,Mother,1,4,0,No,No,No,No,Yes,Yes,Yes,No,3,3,3,1,1,3,0,11,9,10,FALSE
+GP,M,16,U,GT3,T,3,1,Other,Other,Reputation,Mother,1,1,0,No,No,No,Yes,Yes,Yes,No,No,5,3,2,2,2,5,0,13,13,14,FALSE
+GP,M,15,U,GT3,T,4,3,Teacher,Other,Home,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,2,3,5,0,11,11,11,FALSE
+GP,M,15,U,GT3,T,4,0,Teacher,Other,Course,Mother,2,4,0,No,No,No,Yes,Yes,Yes,Yes,No,3,4,3,1,1,1,0,12,11,11,FALSE
+GP,M,17,U,GT3,T,2,1,Other,Other,Home,Mother,2,1,3,Yes,Yes,No,Yes,Yes,No,Yes,No,4,5,1,1,1,3,0,9,9,10,FALSE
+GP,M,15,U,GT3,T,2,3,Other,Services,Course,Father,1,1,0,Yes,Yes,No,Yes,No,Yes,Yes,Yes,3,2,2,1,3,3,0,11,11,12,FALSE
+GP,M,15,U,GT3,T,2,3,Other,Other,Home,Mother,1,3,0,Yes,No,No,No,No,Yes,Yes,No,5,3,2,1,2,5,2,10,9,9,TRUE
+GP,M,15,U,LE3,T,2,2,Services,Services,Home,Mother,2,2,0,No,No,Yes,Yes,Yes,Yes,Yes,No,5,3,3,1,3,4,2,13,12,13,FALSE
+GP,M,16,U,GT3,T,2,2,Services,Other,Reputation,Father,2,2,0,No,No,No,Yes,No,Yes,Yes,No,4,4,2,1,1,3,6,12,10,11,FALSE
+GP,M,16,U,LE3,A,4,4,Teacher,Health,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,No,4,1,3,3,5,5,6,9,9,10,FALSE
+GP,M,15,U,LE3,T,2,2,Services,Health,Reputation,Mother,1,4,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,4,1,1,4,2,11,12,12,FALSE
+GP,M,16,R,GT3,T,4,3,Services,Other,Reputation,Mother,2,1,0,Yes,Yes,Yes,Yes,No,Yes,Yes,No,3,3,3,1,1,4,6,9,11,11,FALSE
+GP,M,16,U,GT3,T,4,4,Services,Services,Other,Mother,1,1,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,4,5,5,5,5,4,12,9,9,8,TRUE
+GP,M,16,U,GT3,T,4,4,Services,Teacher,Other,Father,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,3,1,1,4,0,16,16,16,FALSE
+GP,M,15,U,GT3,T,4,4,Services,Other,Course,Mother,1,1,0,No,Yes,Yes,Yes,No,Yes,Yes,No,5,3,3,1,1,5,2,12,13,12,FALSE
+GP,M,15,U,GT3,A,3,4,Services,Other,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,4,1,1,1,0,16,16,16,FALSE
+GP,M,16,U,GT3,T,3,3,Services,Other,Home,Father,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,1,5,4,13,14,14,FALSE
+GP,M,15,R,GT3,T,4,4,Other,Other,Home,Father,4,4,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,3,5,3,5,1,8,12,10,11,FALSE
+GP,M,15,U,LE3,A,4,4,Teacher,Teacher,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,5,5,3,1,1,4,4,13,14,14,FALSE
+GP,M,15,U,LE3,T,4,2,Teacher,Other,Course,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,5,2,1,1,3,10,18,17,18,FALSE
+GP,M,15,R,GT3,T,2,1,Health,Services,Reputation,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,4,2,1,1,5,4,10,9,10,FALSE
+GP,M,16,U,GT3,T,4,4,Teacher,Teacher,Course,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,4,1,2,5,6,16,14,14,FALSE
+GP,M,15,U,GT3,T,4,4,Other,Teacher,Reputation,Father,2,2,0,No,Yes,No,Yes,Yes,Yes,No,No,4,4,3,1,1,2,4,16,15,16,FALSE
+GP,M,16,U,GT3,T,3,3,Other,Services,Home,Father,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,5,4,2,1,1,5,6,14,14,15,FALSE
+GP,M,17,R,GT3,T,1,3,Other,Other,Course,Father,3,2,1,No,Yes,No,Yes,Yes,Yes,Yes,No,5,2,4,1,4,5,14,12,11,11,FALSE
+GP,M,15,U,GT3,T,3,4,Other,Other,Reputation,Father,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,4,3,1,2,4,2,14,13,14,FALSE
+GP,M,15,U,GT3,T,2,2,Services,Services,Home,Father,1,4,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,5,4,1,2,5,6,14,13,13,FALSE
+GP,M,16,U,GT3,T,4,4,Health,Other,Course,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,3,4,4,1,4,5,4,12,13,13,FALSE
+GP,M,15,U,GT3,T,3,4,Services,Services,Home,Father,1,1,0,Yes,No,No,No,Yes,Yes,Yes,No,5,5,5,3,2,5,2,9,9,9,TRUE
+GP,M,16,R,GT3,T,4,4,Teacher,Teacher,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,3,5,5,2,5,4,8,14,14,15,FALSE
+GP,M,16,U,GT3,T,2,3,Other,Other,Course,Mother,2,3,0,No,Yes,No,No,No,Yes,Yes,Yes,3,2,3,2,2,1,4,13,12,13,FALSE
+GP,M,16,U,GT3,T,2,1,At Home,Other,Course,Mother,4,1,0,No,No,No,No,Yes,Yes,No,No,3,2,1,1,1,2,4,9,9,11,FALSE
+GP,M,15,R,GT3,T,3,4,At Home,Teacher,Course,Mother,4,2,0,No,Yes,No,No,Yes,Yes,No,Yes,5,3,3,1,1,5,2,12,11,11,FALSE
+GP,M,17,R,GT3,T,3,4,At Home,Other,Course,Mother,3,2,0,No,No,No,No,Yes,Yes,No,No,5,4,5,2,4,5,2,10,9,10,FALSE
+GP,M,18,U,LE3,T,3,1,Services,Services,Course,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,4,4,5,4,2,11,11,12,FALSE
+GP,M,16,U,LE3,T,1,1,Services,Other,Course,Mother,1,2,2,No,No,No,No,Yes,Yes,No,Yes,4,4,4,1,3,5,0,10,10,10,FALSE
+GP,M,15,U,GT3,T,4,3,Teacher,Services,Course,Father,2,4,0,Yes,Yes,No,No,Yes,Yes,Yes,No,2,2,2,1,1,3,6,9,11,11,FALSE
+GP,M,16,U,GT3,T,4,4,Services,Services,Course,Mother,1,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,3,5,0,15,13,13,FALSE
+GP,M,16,U,LE3,T,2,2,Services,Services,Reputation,Father,2,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,2,3,3,2,2,2,4,12,11,11,FALSE
+GP,M,17,U,GT3,T,2,1,Other,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,5,4,5,1,2,5,22,9,7,6,TRUE
+GP,M,16,U,GT3,T,4,4,Teacher,Teacher,Course,Mother,1,1,0,No,Yes,No,No,Yes,No,Yes,Yes,3,3,2,2,1,5,16,9,9,8,TRUE
+GP,M,15,U,LE3,A,2,1,Services,Other,Course,Mother,4,1,0,No,No,No,No,Yes,Yes,Yes,No,4,5,5,2,5,5,0,12,11,11,FALSE
+GP,M,18,U,LE3,T,1,1,Other,Other,Course,Mother,1,1,2,No,No,No,No,Yes,No,Yes,Yes,2,3,5,2,5,4,0,11,9,0,TRUE
+GP,M,16,U,LE3,T,2,1,At Home,Other,Course,Mother,1,1,1,No,No,No,Yes,Yes,Yes,No,Yes,4,4,4,3,5,5,6,9,10,10,FALSE
+GP,M,19,U,GT3,T,3,2,Services,At Home,Home,Mother,1,1,0,No,Yes,No,No,Yes,No,Yes,Yes,4,5,4,1,1,4,6,11,9,11,FALSE
+GP,M,15,R,GT3,T,2,3,At Home,Services,Course,Mother,1,2,0,Yes,No,Yes,Yes,Yes,Yes,No,No,4,4,4,1,1,1,0,7,8,8,TRUE
+GP,M,17,R,LE3,T,1,2,Other,Other,Reputation,Mother,1,1,3,No,No,No,No,Yes,Yes,No,No,2,2,2,3,3,5,14,9,8,10,FALSE
+GP,M,16,R,GT3,T,2,2,At Home,Other,Course,Mother,3,1,0,No,No,No,No,No,Yes,No,No,4,2,2,1,2,3,4,12,10,11,FALSE
+GP,M,16,U,GT3,T,3,3,Other,Services,Course,Father,1,2,1,No,Yes,No,No,Yes,Yes,Yes,Yes,4,5,5,4,4,5,0,10,10,1,TRUE
+GP,M,16,U,LE3,T,1,2,Health,Services,Course,Mother,2,1,2,No,No,No,No,No,Yes,Yes,No,4,4,5,3,5,5,0,9,8,10,FALSE
+GP,M,17,R,LE3,T,2,1,At Home,Other,Course,Mother,2,1,1,No,No,Yes,Yes,Yes,No,Yes,Yes,3,3,2,2,2,5,8,8,8,9,TRUE
+GP,M,17,R,GT3,T,3,2,Other,Other,Course,Mother,2,2,2,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,4,4,1,4,3,4,7,6,8,TRUE
+GP,M,15,U,LE3,T,1,2,Other,Other,Course,Mother,2,1,0,No,No,No,Yes,Yes,Yes,No,No,4,4,4,2,4,5,2,8,9,10,FALSE
+GP,M,16,U,GT3,T,1,3,At Home,Services,Course,Father,1,1,1,No,No,No,No,Yes,No,Yes,No,5,3,3,1,4,2,2,9,8,8,TRUE
+GP,M,17,R,LE3,T,1,1,Other,Services,Course,Mother,4,2,0,No,No,No,Yes,Yes,No,No,Yes,5,3,5,1,5,5,0,8,8,8,TRUE
+GP,M,17,U,GT3,T,3,2,Services,Services,Course,Mother,2,1,3,No,Yes,No,Yes,No,No,No,No,4,5,2,1,1,2,10,8,7,8,TRUE
+GP,M,16,U,GT3,T,2,2,Other,Other,Course,Father,1,2,0,No,No,No,No,Yes,No,Yes,No,4,3,5,2,4,4,0,9,10,11,FALSE
+GP,M,16,U,GT3,T,3,4,Other,Other,Course,Father,3,1,1,No,Yes,No,Yes,No,Yes,Yes,No,3,4,5,2,4,2,4,9,9,10,FALSE
+GP,M,16,U,GT3,T,1,0,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,2,1,1,3,0,16,17,18,FALSE
+GP,M,17,U,LE3,T,4,4,Teacher,Other,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,4,4,1,3,5,0,11,9,10,FALSE
+GP,M,17,U,LE3,T,4,3,Teacher,Other,Course,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,No,4,4,4,4,4,4,0,10,11,11,FALSE
+GP,M,17,U,GT3,T,3,3,Other,Other,Reputation,Father,1,2,0,No,No,No,Yes,No,Yes,Yes,No,4,3,4,1,4,4,4,11,9,10,FALSE
+GP,M,16,R,GT3,T,4,2,Teacher,Services,Other,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,3,3,4,3,8,10,9,11,FALSE
+GP,M,17,U,GT3,T,4,3,Other,Other,Course,Mother,1,2,0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,2,3,1,1,2,4,11,11,13,FALSE
+GP,M,16,U,GT3,T,4,3,Teacher,Other,Home,Mother,1,2,0,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3,4,3,2,3,3,4,11,10,11,FALSE
+GP,M,16,U,GT3,T,3,3,Services,Other,Home,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,3,1,2,3,0,11,12,13,FALSE
+GP,M,17,U,GT3,T,3,3,Services,Services,Other,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,4,2,3,4,6,11,13,14,FALSE
+GP,M,16,U,GT3,T,1,2,Services,Services,Other,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,3,3,1,2,3,0,10,9,11,FALSE
+GP,M,16,U,LE3,T,2,1,Other,Other,Course,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,3,1,2,5,0,13,14,16,FALSE
+GP,M,17,R,GT3,T,1,2,At Home,Other,Home,Mother,1,2,0,No,No,No,No,Yes,Yes,No,No,3,1,3,1,5,3,6,9,9,10,FALSE
+GP,M,17,U,GT3,T,1,2,At Home,Services,Other,Other,2,2,0,No,No,No,Yes,No,Yes,Yes,No,4,4,4,4,5,5,16,10,11,12,FALSE
+GP,M,16,R,GT3,T,3,3,Services,Services,Reputation,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,2,3,4,5,0,11,10,10,FALSE
+GP,M,16,U,GT3,T,2,3,Other,Other,Home,Father,2,1,0,No,No,No,No,Yes,Yes,Yes,No,5,3,3,1,1,3,0,13,12,12,FALSE
+GP,M,17,U,GT3,T,4,4,Services,Teacher,Home,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,5,2,3,1,2,5,4,13,13,14,FALSE
+GP,M,16,R,LE3,T,3,3,Teacher,Other,Home,Father,3,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,3,3,4,3,5,3,16,10,11,12,FALSE
+GP,M,17,U,LE3,T,4,4,Services,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,3,5,4,5,3,15,13,12,12,FALSE
+GP,M,18,U,GT3,T,2,2,Services,Other,Home,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,4,4,2,4,5,10,12,11,11,FALSE
+GP,M,18,U,LE3,T,3,3,Services,Health,Home,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,3,2,4,2,4,4,10,10,10,10,FALSE
+GP,M,18,U,GT3,T,2,2,Other,Other,Home,Mother,2,2,3,No,Yes,Yes,No,Yes,Yes,Yes,No,3,3,3,5,5,4,9,10,9,10,FALSE
+GP,M,17,U,LE3,T,2,3,Services,Services,Reputation,Father,1,2,0,No,Yes,No,No,No,Yes,Yes,No,5,3,3,1,3,3,0,10,11,11,FALSE
+GP,M,18,U,LE3,T,2,1,At Home,Other,Course,Mother,4,2,0,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,2,4,5,3,2,9,10,11,FALSE
+GP,M,17,R,GT3,T,2,2,Other,Other,Course,Father,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,5,2,1,1,1,0,12,13,13,FALSE
+GP,M,17,U,GT3,T,4,4,Teacher,Teacher,Reputation,Mother,1,2,0,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,5,5,1,3,2,0,13,13,13,FALSE
+GP,M,16,U,GT3,T,4,4,Health,Other,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,4,2,4,1,0,13,13,14,FALSE
+GP,M,16,U,LE3,T,1,1,Other,Other,Home,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,3,4,2,1,1,5,2,9,9,9,TRUE
+GP,M,16,U,GT3,T,3,2,At Home,Other,Reputation,Mother,2,3,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,3,1,3,2,0,12,12,12,FALSE
+GP,M,17,U,LE3,T,2,2,Other,Other,Home,Father,1,2,0,No,No,No,Yes,No,Yes,Yes,Yes,4,4,2,5,5,4,0,16,16,16,FALSE
+GP,M,18,U,GT3,T,2,2,Other,At Home,Course,Other,1,1,1,No,Yes,No,Yes,No,No,Yes,Yes,4,4,3,2,2,1,26,7,8,8,TRUE
+GP,M,17,U,GT3,T,4,4,Teacher,Teacher,Course,Mother,1,1,0,No,Yes,No,Yes,No,Yes,Yes,No,4,2,1,1,2,5,6,10,8,9,TRUE
+GP,M,18,U,GT3,T,2,2,Other,Services,Reputation,Father,1,2,0,No,No,No,No,Yes,No,Yes,No,5,5,4,3,5,2,16,8,7,8,TRUE
+GP,M,17,U,LE3,T,4,3,Health,Other,Course,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,2,5,5,1,4,5,8,15,15,15,FALSE
+GP,M,17,R,LE3,A,4,4,Teacher,Other,Course,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,3,3,3,2,3,4,0,12,12,12,FALSE
+GP,M,16,U,LE3,T,4,3,Teacher,Other,Course,Mother,1,1,0,No,No,No,Yes,No,Yes,Yes,No,5,4,5,1,1,3,7,14,14,15,FALSE
+GP,M,16,U,GT3,T,4,4,Services,Services,Course,Mother,1,1,0,No,No,Yes,Yes,Yes,Yes,Yes,No,5,3,2,1,2,5,4,14,15,15,FALSE
+GP,M,17,R,GT3,T,1,1,Other,Other,Home,Father,2,3,0,No,No,No,No,No,Yes,Yes,Yes,4,3,3,1,1,1,2,13,14,15,FALSE
+GP,M,16,U,GT3,T,2,1,Other,Other,Course,Mother,3,1,0,No,No,No,No,Yes,Yes,Yes,No,4,3,3,1,1,4,7,15,16,16,FALSE
+GP,M,17,U,GT3,T,2,3,Other,Other,Course,Father,2,1,0,No,No,No,No,Yes,Yes,Yes,No,5,2,2,1,1,2,2,9,12,13,FALSE
+GP,M,22,U,GT3,T,3,1,Services,Services,Other,Mother,1,1,3,No,No,No,No,No,No,Yes,Yes,5,4,5,5,5,1,12,7,8,5,TRUE
+GP,M,18,R,LE3,T,3,3,Other,Services,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,3,1,3,5,8,10,9,10,FALSE
+GP,M,16,U,GT3,T,0,2,Other,Other,Other,Mother,1,1,0,No,No,No,No,No,Yes,Yes,No,4,3,2,2,4,5,0,11,12,11,FALSE
+GP,M,18,U,GT3,T,3,2,Services,Other,Course,Mother,2,1,0,No,No,No,No,Yes,No,Yes,No,4,4,5,2,4,5,8,7,8,7,TRUE
+GP,M,16,U,GT3,T,3,3,At Home,Other,Reputation,Other,3,2,1,Yes,Yes,No,No,No,Yes,Yes,No,5,3,3,1,3,2,4,9,11,10,FALSE
+GP,M,18,U,GT3,T,2,1,Services,Services,Other,Mother,1,1,2,No,No,No,No,No,No,Yes,No,3,2,5,2,5,5,4,7,8,6,TRUE
+GP,M,16,R,GT3,T,2,1,Other,Other,Course,Mother,2,1,0,No,No,No,Yes,No,Yes,No,No,3,3,2,1,3,3,2,14,13,12,FALSE
+GP,M,17,R,GT3,T,2,1,Other,Other,Course,Mother,1,1,0,No,No,No,No,No,Yes,Yes,No,4,4,2,2,4,5,0,12,12,13,FALSE
+GP,M,17,U,LE3,T,1,1,Health,Other,Course,Mother,2,1,1,No,Yes,No,Yes,Yes,Yes,Yes,No,4,4,4,1,2,5,0,9,10,10,FALSE
+GP,M,18,U,LE3,T,2,1,Services,Other,Course,Mother,3,2,1,No,No,No,Yes,No,No,Yes,No,4,4,5,4,4,5,4,11,10,11,FALSE
+GP,M,19,U,LE3,A,4,3,Services,At Home,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,1,1,1,1,4,11,13,14,FALSE
+GP,M,18,U,GT3,T,2,1,Other,Other,Home,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,5,2,4,1,2,4,2,16,16,16,FALSE
+GP,M,17,R,GT3,T,2,2,Other,Services,Other,Mother,2,1,0,No,No,No,No,No,No,No,No,5,2,2,1,1,4,0,9,10,10,FALSE
+GP,M,18,U,GT3,T,4,3,Teacher,Other,Course,Mother,1,2,0,No,Yes,No,No,No,Yes,Yes,No,4,3,2,1,1,3,2,10,10,11,FALSE
+GP,M,18,R,GT3,T,3,2,Other,Other,Course,Mother,1,3,0,No,No,No,Yes,No,Yes,No,No,5,3,2,1,1,3,2,10,11,12,FALSE
+GP,M,17,U,GT3,T,2,2,Other,Other,Home,Father,2,1,0,No,No,No,No,Yes,No,Yes,No,4,4,4,2,3,4,8,8,8,9,TRUE
+GP,M,18,R,LE3,A,3,4,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,5,3,4,1,6,15,16,16,FALSE
+GP,M,17,U,GT3,T,3,1,Services,Other,Other,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,4,4,3,4,5,0,11,11,14,FALSE
+GP,M,18,U,GT3,T,4,2,Health,Other,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,5,1,3,5,4,10,12,14,FALSE
+GP,M,17,R,GT3,T,1,2,At Home,At Home,Home,Mother,1,2,0,No,Yes,No,Yes,No,Yes,No,Yes,3,5,2,2,2,1,2,16,17,18,FALSE
+GP,M,18,U,GT3,T,4,4,Teacher,Services,Home,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,3,2,4,1,4,3,6,11,12,12,FALSE
+GP,M,18,U,LE3,T,4,3,Teacher,Services,Course,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,2,3,1,2,1,0,10,10,10,FALSE
+GP,M,18,U,GT3,T,1,2,At Home,Other,Home,Other,2,1,0,No,No,No,No,No,No,Yes,No,3,4,4,2,4,4,10,10,10,11,FALSE
+GP,M,17,U,LE3,A,4,1,Services,Other,Home,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,5,4,2,4,5,22,11,11,10,FALSE
+GP,M,17,U,LE3,A,3,2,Teacher,Services,Home,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,4,4,4,3,4,3,18,13,13,13,FALSE
+GP,M,17,U,GT3,T,1,1,Other,Other,Reputation,Father,1,2,0,No,No,No,No,No,Yes,Yes,No,4,3,3,1,2,4,0,12,12,12,FALSE
+GP,M,18,U,GT3,T,2,1,Services,Services,Reputation,Mother,1,3,0,No,No,No,Yes,Yes,Yes,Yes,No,4,2,4,1,3,2,0,14,15,15,FALSE
+GP,M,18,U,LE3,A,4,4,Teacher,Teacher,Reputation,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,3,1,1,2,0,17,17,17,FALSE
+GP,M,18,U,GT3,T,4,2,Teacher,Other,Home,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,2,1,4,5,2,15,16,16,FALSE
+GP,M,18,R,LE3,T,3,2,Services,Other,Reputation,Mother,2,3,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,2,1,1,4,0,14,15,15,FALSE
+GP,M,17,U,GT3,T,3,3,Health,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,3,1,3,5,0,14,15,15,FALSE
+GP,M,18,U,LE3,T,4,4,Teacher,Teacher,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,Yes,1,4,2,2,2,1,0,18,18,17,FALSE
+GP,M,17,U,LE3,T,4,4,Other,Teacher,Home,Father,2,1,0,No,No,No,No,Yes,Yes,Yes,No,4,1,1,2,2,5,0,12,13,13,FALSE
+GP,M,19,R,LE3,T,2,1,At Home,Services,Course,Mother,2,3,1,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,1,1,1,5,0,9,10,11,FALSE
+GP,M,20,U,GT3,A,3,2,Services,Other,Course,Other,1,1,2,No,No,No,Yes,Yes,Yes,No,No,5,5,3,1,1,5,0,14,15,15,FALSE
+GP,M,19,R,GT3,T,3,3,Other,Services,Reputation,Father,1,2,0,No,No,No,Yes,Yes,Yes,No,Yes,4,5,3,1,2,5,0,10,10,11,FALSE
+GP,M,19,U,GT3,T,4,2,Health,Other,Course,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,4,1,1,1,9,11,10,10,FALSE
+GP,M,18,U,LE3,T,4,4,Other,Other,Reputation,Father,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,2,5,3,4,5,2,8,9,11,FALSE
+GP,M,18,U,GT3,T,4,4,Other,Other,Course,Mother,1,3,0,No,No,No,Yes,Yes,Yes,Yes,No,4,3,3,2,2,3,0,13,14,13,FALSE
+GP,M,17,U,GT3,T,3,3,Other,Services,Reputation,Mother,1,1,0,No,No,No,Yes,No,Yes,Yes,No,4,3,5,3,5,5,0,17,18,17,FALSE
+GP,M,17,R,GT3,T,2,2,Services,Other,Course,Mother,4,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,5,5,5,4,2,11,10,10,FALSE
+GP,M,18,U,LE3,T,2,2,Other,Other,Course,Mother,1,4,0,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4,5,5,2,4,5,0,11,11,12,FALSE
+GP,M,19,R,GT3,T,3,2,At Home,Services,Home,Other,1,1,0,No,Yes,No,No,No,Yes,No,Yes,5,3,4,2,2,5,0,11,10,10,FALSE
+GP,M,18,U,GT3,T,2,2,Other,Other,Reputation,Mother,1,1,0,No,No,No,No,No,Yes,Yes,No,5,4,2,1,2,5,6,15,14,15,FALSE
+GP,M,18,U,GT3,T,4,4,Teacher,Services,Home,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,2,2,2,0,12,12,13,FALSE
+GP,M,18,U,LE3,T,3,4,Services,Other,Home,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,3,1,3,5,6,16,16,17,FALSE
+GP,M,18,R,GT3,T,4,3,Teacher,Services,Course,Mother,1,3,0,No,No,No,No,Yes,Yes,Yes,Yes,5,3,2,1,2,4,4,15,14,17,FALSE
+GP,M,18,U,GT3,T,4,3,Teacher,Other,Course,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,4,5,2,3,5,0,14,13,14,FALSE
+GP,M,18,U,LE3,T,2,2,Services,Services,Reputation,Mother,1,2,0,No,Yes,No,Yes,No,No,Yes,No,4,4,4,1,3,3,11,9,11,12,FALSE
+GP,M,18,U,LE3,A,3,4,Other,Other,Reputation,Other,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,5,1,4,2,9,13,14,15,FALSE
+GP,M,17,U,LE3,A,4,4,Health,Other,Reputation,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,2,1,2,4,2,12,15,15,FALSE
+GP,M,21,R,LE3,T,1,1,At Home,Other,Course,Other,2,2,2,No,Yes,No,Yes,Yes,No,Yes,Yes,5,3,3,5,2,4,21,9,10,10,FALSE
+GP,M,17,U,LE3,A,3,2,Other,Other,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,4,1,2,5,10,16,18,18,FALSE
+GP,M,18,R,GT3,T,2,3,Other,Services,Reputation,Father,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,1,3,4,5,4,13,13,14,14,FALSE
+GP,M,19,U,GT3,T,2,1,Other,Other,Reputation,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,5,3,4,1,4,4,10,7,11,11,FALSE
+MS,F,16,U,GT3,T,1,3,At Home,Other,Other,Father,2,1,0,No,Yes,No,No,Yes,No,Yes,Yes,4,3,3,1,3,5,11,10,11,11,FALSE
+MS,F,16,R,GT3,T,2,2,Other,Other,Course,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,4,4,1,1,5,0,12,12,12,FALSE
+MS,F,15,R,GT3,T,1,1,At Home,Services,Other,Mother,1,1,1,No,Yes,No,No,Yes,Yes,No,Yes,4,1,3,1,1,2,6,10,10,10,FALSE
+MS,F,15,R,GT3,T,3,3,At Home,Other,Course,Mother,2,1,0,No,Yes,No,No,Yes,Yes,Yes,No,5,4,4,2,3,5,4,10,10,11,FALSE
+MS,F,16,R,GT3,T,2,3,At Home,Services,Course,Mother,2,2,0,No,No,No,No,Yes,Yes,No,No,4,5,2,1,2,5,0,16,17,17,FALSE
+MS,F,15,R,LE3,T,2,1,At Home,Other,Home,Mother,2,1,0,No,No,No,No,Yes,No,No,No,1,3,4,1,1,1,0,6,8,9,TRUE
+MS,F,17,R,GT3,T,3,2,At Home,Other,Course,Father,1,2,1,No,No,No,No,Yes,Yes,No,Yes,4,5,4,1,2,5,0,10,10,10,FALSE
+MS,F,17,R,GT3,T,1,1,Other,Other,Other,Father,1,1,1,No,Yes,No,No,No,No,Yes,No,5,4,4,2,2,5,0,6,6,7,TRUE
+MS,F,15,R,GT3,T,4,4,Teacher,Other,Course,Mother,2,1,0,No,No,No,No,Yes,Yes,Yes,Yes,1,5,1,3,5,5,0,13,14,14,FALSE
+MS,F,16,U,LE3,A,2,2,At Home,Other,Reputation,Mother,2,4,0,No,No,No,Yes,No,No,No,Yes,1,2,1,1,1,1,4,10,9,11,FALSE
+MS,F,15,R,LE3,T,1,1,At Home,Services,Reputation,Father,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,5,4,3,1,2,4,0,10,10,10,FALSE
+MS,F,15,R,LE3,T,1,1,Other,Services,Course,Mother,2,1,1,No,Yes,No,No,Yes,Yes,Yes,Yes,4,4,3,1,2,2,4,6,7,8,TRUE
+MS,F,16,R,GT3,T,0,2,Other,Other,Other,Mother,2,1,0,No,Yes,No,Yes,Yes,Yes,No,No,3,2,3,1,2,2,0,12,11,12,FALSE
+MS,F,17,R,GT3,T,2,3,Other,Other,Course,Mother,2,1,0,No,Yes,No,No,Yes,Yes,Yes,No,5,5,5,1,3,3,2,10,11,12,FALSE
+MS,F,15,R,GT3,T,3,3,Other,Services,Course,Father,2,1,0,No,No,No,No,No,Yes,Yes,No,4,1,3,1,1,4,0,14,16,16,FALSE
+MS,F,16,R,GT3,T,4,4,Teacher,Teacher,Course,Mother,2,3,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,1,1,4,6,16,16,17,FALSE
+MS,F,15,R,GT3,T,1,2,Other,Services,Course,Mother,2,1,0,No,No,No,No,Yes,Yes,No,No,5,1,2,1,1,1,3,11,13,13,FALSE
+MS,F,16,R,GT3,T,2,3,Other,Services,Course,Mother,3,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,5,4,1,2,1,2,15,15,15,FALSE
+MS,F,16,R,GT3,T,2,2,Other,Other,Course,Mother,3,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,5,1,1,4,4,9,10,11,FALSE
+MS,F,16,U,GT3,T,1,2,Other,Services,Course,Mother,1,3,1,No,Yes,No,No,Yes,Yes,No,No,1,3,2,1,2,4,0,10,8,8,TRUE
+MS,F,16,U,GT3,T,1,2,Other,Services,Course,Mother,1,3,1,No,Yes,No,No,Yes,Yes,No,No,1,3,2,1,2,4,3,9,8,8,TRUE
+MS,F,15,U,GT3,T,2,1,At Home,Other,Home,Mother,1,2,0,Yes,Yes,No,No,No,Yes,Yes,No,4,4,2,3,3,2,0,9,10,9,TRUE
+MS,F,16,U,GT3,T,1,1,At Home,Other,Course,Father,1,2,0,No,Yes,No,No,No,Yes,No,Yes,5,4,3,2,1,2,0,13,14,15,FALSE
+MS,F,16,R,GT3,T,1,1,Other,Other,Home,Father,4,4,0,No,Yes,No,No,No,Yes,Yes,No,4,3,2,1,1,1,0,13,10,13,FALSE
+MS,F,16,R,GT3,T,1,1,At Home,Other,Other,Father,4,3,0,Yes,Yes,No,No,Yes,Yes,No,No,4,4,3,1,1,5,2,10,9,10,FALSE
+MS,F,15,R,GT3,T,1,1,At Home,Other,Home,Father,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,3,3,1,1,2,1,11,10,11,FALSE
+MS,F,16,R,GT3,T,1,1,At Home,Other,Other,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,4,3,2,0,13,12,14,FALSE
+MS,F,15,R,GT3,T,1,1,At Home,At Home,Course,Father,3,2,0,No,Yes,No,No,Yes,Yes,No,No,4,2,1,1,2,2,0,13,14,14,FALSE
+MS,F,15,R,LE3,T,2,2,Other,Other,Other,Father,1,3,0,Yes,Yes,No,No,Yes,Yes,No,No,4,4,3,2,2,5,2,14,11,12,FALSE
+MS,F,18,U,GT3,T,1,2,Other,Other,Course,Father,1,2,1,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,2,3,5,9,9,8,8,TRUE
+MS,F,16,R,GT3,T,2,2,Other,Services,Course,Father,3,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,4,1,1,2,1,14,13,14,FALSE
+MS,F,15,R,GT3,T,3,3,Services,Other,Reputation,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,5,4,1,1,1,4,13,12,12,FALSE
+MS,F,16,R,GT3,T,2,2,At Home,Other,Course,Mother,2,2,1,No,Yes,No,Yes,No,Yes,No,No,4,4,4,2,3,5,2,12,11,12,FALSE
+MS,F,16,R,LE3,T,2,2,Other,Other,Home,Father,3,1,0,No,Yes,No,Yes,Yes,Yes,No,Yes,4,3,2,1,1,4,0,14,14,16,FALSE
+MS,F,15,U,GT3,T,2,2,Other,Services,Course,Mother,2,3,0,No,Yes,No,Yes,Yes,Yes,No,No,5,3,2,1,1,4,0,12,13,14,FALSE
+MS,F,16,R,LE3,T,2,1,Other,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,4,3,1,1,5,2,10,8,8,TRUE
+MS,F,16,R,GT3,T,1,1,At Home,Other,Course,Father,2,2,3,Yes,Yes,No,No,Yes,Yes,No,No,3,4,3,1,1,1,0,7,7,8,TRUE
+MS,F,17,U,GT3,T,2,2,Other,At Home,Course,Mother,1,1,0,No,Yes,No,Yes,Yes,No,No,No,4,5,3,1,1,5,4,9,9,10,FALSE
+MS,F,19,U,GT3,T,2,3,At Home,Services,Course,Other,1,1,1,No,No,No,No,Yes,No,Yes,Yes,4,4,4,1,1,2,0,9,9,10,FALSE
+MS,F,17,R,GT3,T,2,1,At Home,Other,Course,Mother,3,1,0,No,Yes,No,Yes,Yes,No,No,Yes,5,5,3,1,1,3,2,9,10,11,FALSE
+MS,F,15,R,LE3,T,1,1,At Home,Other,Course,Mother,2,1,0,No,Yes,No,No,Yes,No,No,Yes,5,2,1,1,3,4,0,9,10,9,TRUE
+MS,F,16,R,GT3,T,2,2,Other,Other,Course,Father,3,2,0,No,Yes,No,No,Yes,No,Yes,No,3,4,5,1,2,1,1,9,10,11,FALSE
+MS,F,16,U,LE3,A,2,2,Other,Other,Home,Mother,1,1,0,No,Yes,No,No,Yes,No,No,No,4,3,4,1,2,1,6,7,7,8,TRUE
+MS,F,17,R,GT3,T,2,2,At Home,Other,Course,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,5,1,2,4,0,11,10,11,FALSE
+MS,F,16,U,GT3,T,2,2,Other,Services,Course,Father,1,1,1,No,Yes,Yes,Yes,No,Yes,Yes,No,4,4,3,1,4,3,1,9,10,10,FALSE
+MS,F,18,R,LE3,A,3,2,Other,Other,Course,Other,2,3,2,No,Yes,No,No,No,No,No,Yes,3,3,2,1,1,2,6,7,9,10,FALSE
+MS,F,19,U,GT3,T,1,1,At Home,Services,Course,Mother,1,3,1,No,No,No,Yes,Yes,No,No,Yes,5,3,1,1,1,3,6,7,9,9,TRUE
+MS,F,18,R,GT3,T,1,1,At Home,At Home,Course,Mother,2,1,1,No,No,No,No,No,No,Yes,Yes,3,2,3,1,1,2,4,9,11,10,FALSE
+MS,F,19,U,GT3,T,1,1,Other,Other,Course,Other,2,2,1,No,Yes,No,No,Yes,Yes,Yes,Yes,1,1,4,4,1,1,12,7,8,9,TRUE
+MS,F,16,R,GT3,A,2,2,Health,Other,Course,Mother,1,2,0,No,No,No,No,No,Yes,No,Yes,3,3,2,1,1,3,2,8,10,10,FALSE
+MS,F,17,U,GT3,T,0,1,Other,At Home,Course,Father,2,1,0,No,No,No,Yes,No,Yes,No,No,2,4,4,3,5,5,5,9,9,10,FALSE
+MS,F,16,R,LE3,T,1,2,At Home,Other,Course,Mother,1,2,0,No,No,No,Yes,Yes,No,Yes,No,4,4,5,1,3,3,0,8,9,9,TRUE
+MS,F,16,U,GT3,T,3,3,Other,Other,Reputation,Mother,1,1,0,No,No,No,Yes,Yes,No,Yes,Yes,4,5,4,1,1,4,0,14,13,13,FALSE
+MS,F,16,R,LE3,T,1,1,Services,Services,Home,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,4,2,2,4,2,14,14,14,FALSE
+MS,F,16,U,GT3,T,2,1,Other,Services,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,1,1,0,14,13,14,FALSE
+MS,F,16,U,GT3,T,2,2,Services,Other,Course,Mother,1,1,0,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4,2,5,1,2,5,0,17,16,16,FALSE
+MS,F,16,U,GT3,T,1,1,Other,Other,Course,Other,1,4,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,2,2,1,1,1,5,0,14,14,14,FALSE
+MS,F,19,U,LE3,T,2,2,Other,Other,Home,Mother,1,3,0,No,No,No,No,Yes,Yes,Yes,Yes,5,4,5,1,1,1,0,12,13,13,FALSE
+MS,F,17,R,GT3,T,1,1,At Home,Other,Reputation,Mother,2,1,0,No,Yes,No,Yes,No,Yes,Yes,Yes,4,4,5,1,2,5,0,11,11,11,FALSE
+MS,F,20,U,GT3,T,3,3,At Home,Services,Other,Mother,2,2,1,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,4,2,4,3,8,11,9,10,FALSE
+MS,F,17,U,LE3,T,1,1,Other,Services,Course,Father,1,3,0,No,Yes,No,No,Yes,Yes,No,Yes,4,3,3,1,1,3,0,11,11,10,FALSE
+MS,F,16,R,LE3,T,1,1,At Home,Other,Course,Father,3,2,0,No,Yes,No,No,Yes,Yes,No,No,5,3,2,1,1,1,0,16,17,18,FALSE
+MS,F,17,R,GT3,T,2,2,Other,Other,Reputation,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,No,No,5,3,2,1,1,1,0,15,17,17,FALSE
+MS,F,17,U,GT3,A,1,0,Other,Other,Other,Mother,2,2,0,No,No,No,No,Yes,Yes,Yes,Yes,4,4,5,1,1,4,1,11,9,10,FALSE
+MS,F,18,R,GT3,T,1,1,At Home,Other,Other,Mother,1,2,1,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,2,1,1,5,9,7,7,7,TRUE
+MS,F,16,U,GT3,T,3,1,Other,Other,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,3,1,3,1,3,1,0,8,6,8,TRUE
+MS,F,16,U,GT3,T,3,2,Services,At Home,Course,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,No,3,1,3,1,4,3,2,7,6,7,TRUE
+MS,F,18,U,LE3,T,1,1,Other,At Home,Reputation,Mother,2,2,0,Yes,No,No,No,Yes,Yes,No,No,2,3,5,1,4,3,8,9,8,10,FALSE
+MS,F,16,R,GT3,T,4,4,Health,Teacher,Reputation,Father,1,2,0,No,No,No,Yes,No,Yes,Yes,Yes,4,3,3,2,3,2,0,14,16,16,FALSE
+MS,F,16,R,LE3,T,1,2,Other,Other,Reputation,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,5,4,5,1,4,2,0,14,14,15,FALSE
+MS,F,18,U,GT3,A,2,4,Other,Services,Reputation,Father,1,2,1,No,Yes,No,No,Yes,Yes,Yes,No,2,3,2,1,3,1,8,8,5,8,TRUE
+MS,F,16,U,LE3,T,1,1,At Home,Other,Other,Mother,3,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,2,1,3,5,6,6,8,8,TRUE
+MS,F,16,R,GT3,T,2,3,At Home,Services,Other,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,3,3,3,1,1,2,0,8,10,10,FALSE
+MS,F,16,U,GT3,T,4,4,Health,Health,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,4,1,2,3,4,8,8,8,TRUE
+MS,F,16,R,LE3,T,3,4,At Home,Other,Other,Mother,3,2,0,No,Yes,No,No,No,Yes,No,No,4,2,1,1,1,2,2,7,9,8,TRUE
+MS,F,17,R,GT3,T,4,1,Other,Other,Other,Mother,1,1,0,No,No,No,No,Yes,Yes,Yes,Yes,4,2,3,1,2,5,1,13,14,14,FALSE
+MS,F,17,R,GT3,T,2,2,At Home,Other,Other,Mother,1,1,0,No,Yes,Yes,No,Yes,Yes,Yes,No,5,1,3,1,2,5,5,9,9,9,TRUE
+MS,F,16,U,LE3,T,4,4,Services,Services,Other,Father,2,1,0,No,Yes,No,No,Yes,Yes,No,No,5,1,3,1,2,5,1,11,11,11,FALSE
+MS,F,16,U,LE3,T,2,1,Other,Services,Other,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,Yes,3,2,2,1,1,3,0,14,15,16,FALSE
+MS,F,16,R,LE3,T,2,2,Other,Other,Course,Mother,1,3,0,No,Yes,No,No,No,Yes,No,Yes,4,3,3,2,2,5,2,11,11,11,FALSE
+MS,F,16,U,LE3,T,4,1,Other,Other,Home,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,1,2,4,2,2,1,8,9,10,10,FALSE
+MS,F,17,U,GT3,T,3,2,At Home,Other,Home,Mother,2,1,0,No,No,No,No,Yes,Yes,No,Yes,4,3,3,2,2,1,5,9,11,11,FALSE
+MS,F,17,R,GT3,T,2,2,Other,Other,Other,Mother,2,2,0,Yes,No,Yes,No,Yes,Yes,No,No,5,1,3,1,1,5,0,11,9,11,FALSE
+MS,F,16,U,GT3,T,4,4,Teacher,Services,Course,Mother,2,3,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,3,5,1,4,5,1,10,11,12,FALSE
+MS,F,17,U,GT3,T,4,4,Health,Health,Course,Father,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,5,2,5,1,1,5,0,13,15,16,FALSE
+MS,F,17,U,GT3,A,1,1,At Home,At Home,Other,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,4,5,5,1,2,3,2,11,10,11,FALSE
+MS,F,17,R,GT3,T,4,2,Other,Other,Course,Mother,2,2,0,Yes,Yes,No,No,No,Yes,Yes,No,4,3,3,2,3,5,0,17,18,18,FALSE
+MS,F,17,R,GT3,T,1,1,At Home,At Home,Course,Father,2,1,0,No,Yes,No,Yes,Yes,No,Yes,Yes,3,5,5,2,2,4,3,10,11,10,FALSE
+MS,F,16,R,GT3,T,1,2,Other,Other,Home,Father,1,3,0,Yes,Yes,No,No,No,Yes,Yes,Yes,4,3,4,1,1,3,5,13,14,13,FALSE
+MS,F,17,R,GT3,T,3,1,Other,Other,Course,Mother,2,2,3,No,Yes,No,Yes,No,Yes,Yes,Yes,5,4,4,1,1,5,2,7,9,10,FALSE
+MS,F,16,R,LE3,T,2,2,Other,Services,Course,Father,1,2,0,No,No,No,Yes,Yes,Yes,No,Yes,5,4,3,1,1,1,0,11,13,12,FALSE
+MS,F,16,U,GT3,A,3,2,Services,At Home,Course,Mother,2,2,2,No,Yes,No,Yes,Yes,Yes,No,Yes,2,5,5,1,1,1,8,5,5,7,TRUE
+MS,F,17,U,GT3,T,1,1,Other,At Home,Course,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,No,No,4,3,2,1,2,5,9,7,9,10,FALSE
+MS,F,18,R,GT3,A,4,3,Services,Services,Course,Mother,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,5,4,4,3,4,2,8,10,11,10,FALSE
+MS,F,18,U,GT3,A,1,2,At Home,Other,Course,Mother,2,2,2,No,Yes,No,No,Yes,Yes,No,No,4,3,3,1,1,5,2,6,8,8,TRUE
+MS,F,19,U,LE3,A,1,1,At Home,Other,Course,Mother,1,1,0,No,Yes,No,No,Yes,No,No,No,1,4,4,1,1,5,0,6,8,7,TRUE
+MS,F,18,R,GT3,T,2,2,Other,Other,Other,Mother,2,1,1,No,No,No,No,Yes,No,Yes,Yes,5,5,5,1,1,3,0,8,6,0,TRUE
+MS,F,17,R,GT3,T,0,0,At Home,Other,Course,Mother,2,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,3,1,1,5,0,10,11,11,FALSE
+MS,F,17,R,LE3,A,3,1,Other,At Home,Course,Other,2,3,0,No,Yes,Yes,No,Yes,No,No,No,4,2,3,2,2,3,5,8,7,8,TRUE
+MS,F,17,U,GT3,T,4,2,Teacher,Services,Home,Mother,1,2,0,Yes,Yes,No,Yes,Yes,Yes,Yes,No,5,5,5,1,3,5,0,8,8,0,TRUE
+MS,F,18,R,LE3,T,2,2,Services,Services,Course,Mother,1,2,1,No,Yes,No,Yes,Yes,Yes,Yes,No,2,3,3,1,2,4,3,7,6,8,TRUE
+MS,F,17,U,GT3,T,4,1,Health,At Home,Course,Mother,1,1,0,No,Yes,No,No,Yes,Yes,No,Yes,3,2,2,1,1,5,0,8,10,9,TRUE
+MS,F,17,U,LE3,T,1,2,At Home,Other,Course,Father,1,1,0,No,No,No,No,Yes,Yes,Yes,No,5,5,1,1,1,3,0,7,10,10,FALSE
+MS,F,18,U,GT3,T,1,1,Other,Other,Course,Mother,3,2,2,No,No,No,Yes,Yes,Yes,No,Yes,3,4,4,2,2,5,3,7,8,7,TRUE
+MS,F,18,U,GT3,T,2,2,Services,At Home,Reputation,Father,2,2,0,No,No,No,Yes,No,Yes,Yes,No,4,3,5,1,1,1,2,12,13,14,FALSE
+MS,F,17,U,GT3,T,3,3,Services,Services,Course,Mother,2,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,3,1,1,4,0,11,12,13,FALSE
+MS,F,18,U,LE3,A,1,2,At Home,Other,Reputation,Mother,2,2,0,No,No,No,No,Yes,Yes,Yes,No,4,4,3,1,2,4,0,12,13,14,FALSE
+MS,F,18,U,GT3,T,4,4,Teacher,Teacher,Reputation,Mother,2,2,0,No,No,No,Yes,No,Yes,Yes,No,4,3,5,1,2,1,0,18,18,18,FALSE
+MS,F,17,U,GT3,T,4,2,Other,Other,Course,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,3,1,2,4,0,17,18,18,FALSE
+MS,F,18,R,GT3,T,2,2,At Home,Other,Course,Mother,3,2,1,No,No,No,Yes,Yes,Yes,No,Yes,4,3,3,1,1,4,0,9,0,0,TRUE
+MS,F,18,U,GT3,T,2,2,Other,Other,Course,Mother,2,2,0,No,Yes,No,No,No,Yes,Yes,Yes,1,3,1,1,1,2,4,8,8,10,FALSE
+MS,F,18,U,LE3,T,2,2,Services,Services,Course,Father,2,3,0,No,No,No,No,Yes,Yes,Yes,Yes,5,4,5,1,4,3,0,11,12,13,FALSE
+MS,F,18,R,LE3,A,4,2,Teacher,Other,Reputation,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,1,1,1,5,0,5,0,0,TRUE
+MS,F,18,U,GT3,T,1,1,At Home,Services,Course,Mother,3,2,1,No,No,No,No,Yes,No,No,No,4,4,2,1,2,2,2,9,10,10,FALSE
+MS,F,19,U,GT3,T,1,1,At Home,Services,Other,Father,2,1,1,No,No,No,No,Yes,No,No,No,5,5,5,2,3,2,0,5,0,0,TRUE
+MS,F,17,U,GT3,T,4,2,Teacher,Other,Course,Father,2,4,0,No,No,No,No,Yes,Yes,Yes,Yes,4,2,3,3,1,5,0,18,18,18,FALSE
+MS,F,17,R,LE3,A,2,1,Services,Other,Reputation,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,Yes,5,3,3,1,2,2,5,11,11,12,FALSE
+MS,F,18,U,LE3,A,1,1,At Home,Services,Course,Mother,1,2,0,No,No,No,No,Yes,Yes,No,Yes,5,2,3,1,2,3,2,8,10,11,FALSE
+MS,F,18,U,GT3,T,1,2,At Home,At Home,Course,Father,2,2,0,No,Yes,No,No,Yes,No,No,No,4,1,1,1,1,4,0,11,11,12,FALSE
+MS,F,19,R,GT3,A,1,1,At Home,At Home,Course,Other,2,2,3,No,Yes,No,Yes,Yes,No,No,Yes,3,5,4,1,4,1,0,8,0,0,TRUE
+MS,F,18,R,GT3,T,2,2,Services,Other,Home,Mother,2,3,0,No,No,No,No,Yes,Yes,Yes,Yes,4,2,1,1,1,4,5,14,14,15,FALSE
+MS,F,18,U,GT3,T,3,3,Services,Services,Course,Father,1,2,0,No,Yes,No,No,Yes,Yes,No,Yes,5,3,4,1,1,5,0,10,10,10,FALSE
+MS,F,17,R,GT3,T,4,4,Teacher,Services,Other,Father,2,2,0,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4,3,3,1,2,5,2,12,12,12,FALSE
+MS,F,17,U,LE3,A,3,2,Services,Other,Reputation,Mother,2,2,0,No,No,No,No,Yes,Yes,No,Yes,1,2,3,1,2,5,0,15,14,15,FALSE
+MS,F,18,U,LE3,T,1,1,At Home,Services,Course,Father,2,3,0,No,No,No,No,Yes,Yes,Yes,No,5,3,2,1,1,4,0,19,17,18,FALSE
+MS,F,18,R,LE3,A,1,2,At Home,Other,Course,Mother,3,2,0,No,No,No,No,Yes,Yes,No,Yes,4,3,4,1,4,5,0,16,15,15,FALSE
+MS,F,18,U,GT3,T,3,3,Services,Services,Other,Mother,2,2,0,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,2,1,3,3,6,13,12,13,FALSE
+MS,F,17,U,LE3,T,4,4,At Home,At Home,Course,Mother,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,4,1,1,1,4,15,14,15,FALSE
+MS,F,17,R,GT3,T,1,2,Other,Services,Course,Father,2,2,0,No,No,No,No,No,Yes,No,No,3,2,2,1,2,3,0,13,13,13,FALSE
+MS,F,17,R,GT3,T,1,1,Other,Services,Reputation,Mother,3,1,1,No,Yes,No,No,Yes,Yes,Yes,Yes,5,2,1,1,2,1,0,8,8,9,TRUE
+MS,F,18,U,GT3,T,2,3,At Home,Services,Course,Father,2,1,0,No,Yes,No,No,Yes,Yes,Yes,Yes,5,2,3,1,2,4,0,10,10,10,FALSE
+MS,F,18,R,GT3,T,4,4,Other,Teacher,Other,Father,3,2,0,No,Yes,No,No,No,Yes,Yes,Yes,3,2,2,4,2,5,0,7,5,0,TRUE
+MS,F,17,U,GT3,T,2,2,Other,At Home,Home,Mother,1,3,0,No,No,No,Yes,Yes,Yes,No,Yes,3,4,3,1,1,3,8,10,11,12,FALSE
+MS,F,17,R,GT3,T,1,2,Other,Other,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,3,5,5,1,3,1,4,7,8,9,TRUE
+MS,F,18,R,LE3,T,4,4,Other,Other,Reputation,Mother,2,3,0,No,No,No,No,Yes,Yes,Yes,No,5,4,4,1,1,1,0,15,17,17,FALSE
+MS,F,18,R,GT3,T,1,1,Other,Other,Home,Mother,4,3,0,No,No,No,No,Yes,Yes,Yes,No,4,3,2,1,2,4,4,10,11,12,FALSE
+MS,F,19,R,GT3,T,1,1,At Home,Other,Course,Other,2,2,1,No,Yes,No,No,Yes,Yes,Yes,Yes,4,3,3,1,1,3,4,7,8,9,TRUE
+MS,F,18,R,LE3,T,4,4,Teacher,Services,Course,Mother,1,2,0,No,No,No,Yes,Yes,Yes,Yes,No,5,4,3,3,4,2,1,13,14,14,FALSE
+MS,F,18,U,GT3,T,3,3,Other,Other,Home,Mother,1,2,0,No,No,No,No,Yes,Yes,Yes,Yes,4,1,3,1,2,1,1,16,16,16,FALSE
+MS,F,17,R,GT3,T,3,1,At Home,Other,Reputation,Mother,1,2,0,No,Yes,No,Yes,No,Yes,Yes,No,4,5,4,2,3,1,10,8,9,9,TRUE
+MS,F,18,R,GT3,T,2,2,At Home,Other,Other,Mother,2,3,0,No,No,No,No,Yes,Yes,No,No,5,3,3,1,3,4,0,14,17,15,FALSE
+MS,F,17,U,GT3,T,4,3,Teacher,Other,Other,Mother,2,2,0,No,No,No,No,Yes,Yes,Yes,No,5,5,4,1,1,1,0,6,9,11,FALSE
+MS,F,18,R,GT3,T,4,4,Teacher,At Home,Reputation,Mother,3,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,3,2,2,5,4,7,9,10,FALSE
+MS,F,19,R,GT3,T,2,3,Services,Other,Course,Mother,1,3,1,No,No,No,Yes,No,Yes,Yes,No,5,4,2,1,2,5,4,10,11,10,FALSE
+MS,F,18,U,LE3,T,3,1,Teacher,Services,Course,Mother,1,2,0,No,Yes,No,No,Yes,Yes,Yes,No,4,3,4,1,1,1,4,15,15,16,FALSE
+MS,F,18,U,GT3,T,1,1,Other,Other,Course,Mother,2,2,0,No,No,No,Yes,Yes,Yes,No,No,1,1,1,1,1,5,6,11,12,9,TRUE
+MS,M,16,R,LE3,A,4,4,At Home,Other,Home,Mother,1,2,0,No,Yes,No,No,Yes,Yes,No,No,5,3,2,1,3,2,5,10,11,11,FALSE
+MS,M,16,U,GT3,A,1,2,Other,Other,Other,Mother,1,3,0,Yes,No,No,No,Yes,Yes,Yes,No,4,4,3,1,1,5,0,10,11,11,FALSE
+MS,M,16,U,GT3,T,1,1,At Home,Services,Home,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,No,Yes,5,4,5,4,5,3,0,7,0,0,TRUE
+MS,M,17,U,GT3,T,1,1,Other,Other,Home,Mother,1,2,0,No,No,Yes,No,No,Yes,Yes,No,4,4,3,2,4,5,4,8,9,9,TRUE
+MS,M,15,R,LE3,T,4,1,Health,Services,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,4,1,2,2,0,12,13,14,FALSE
+MS,M,15,R,LE3,T,4,1,Health,Services,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,4,1,2,2,7,7,9,8,TRUE
+MS,M,16,R,GT3,T,3,4,Other,Health,Other,Mother,3,2,0,No,No,No,No,No,Yes,No,No,3,4,5,1,2,5,4,9,10,11,FALSE
+MS,M,15,R,GT3,T,1,1,Other,Other,Course,Mother,4,2,0,No,Yes,No,Yes,Yes,Yes,No,Yes,5,4,5,2,4,4,8,7,9,9,TRUE
+MS,M,15,U,LE3,T,3,3,At Home,At Home,Reputation,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,3,3,1,1,5,0,11,11,11,FALSE
+MS,M,17,R,GT3,T,2,1,Other,Other,Other,Mother,3,1,0,No,No,No,Yes,Yes,No,No,Yes,5,5,5,5,5,3,8,8,10,9,TRUE
+MS,M,16,R,GT3,T,1,2,Other,Other,Course,Father,2,2,0,No,No,No,No,Yes,Yes,No,No,4,3,3,1,1,5,0,10,11,11,FALSE
+MS,M,17,R,LE3,T,1,2,At Home,Services,Reputation,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,5,5,5,5,3,4,10,11,11,FALSE
+MS,M,16,R,GT3,T,1,1,At Home,Other,Other,Father,2,1,0,No,No,No,Yes,Yes,Yes,No,No,3,4,4,3,4,5,6,11,11,11,FALSE
+MS,M,15,U,GT3,T,3,1,Other,Services,Home,Mother,2,1,0,No,Yes,No,No,Yes,Yes,No,No,3,2,3,1,3,4,0,10,9,11,FALSE
+MS,M,15,U,GT3,T,2,2,Health,Other,Reputation,Mother,3,1,0,No,No,No,No,Yes,Yes,No,No,4,3,3,1,2,4,1,13,12,13,FALSE
+MS,M,16,U,GT3,T,4,4,Other,Teacher,Course,Father,1,2,0,No,Yes,No,Yes,Yes,Yes,No,Yes,4,3,1,1,1,3,0,13,12,13,FALSE
+MS,M,16,U,LE3,T,2,1,At Home,Services,Course,Mother,2,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,2,4,3,2,3,4,4,10,8,10,FALSE
+MS,M,15,R,LE3,T,1,3,At Home,Other,Reputation,Father,3,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,2,4,3,5,3,2,10,11,11,FALSE
+MS,M,15,U,GT3,T,3,3,Services,Services,Course,Father,2,1,0,No,Yes,No,Yes,No,Yes,Yes,No,4,3,3,2,4,3,11,12,10,11,FALSE
+MS,M,18,R,GT3,T,1,1,Other,Other,Home,Mother,2,1,1,No,No,No,Yes,Yes,No,Yes,No,4,4,3,3,4,4,0,8,9,10,FALSE
+MS,M,17,U,GT3,T,3,3,Services,At Home,Course,Mother,2,4,1,No,Yes,Yes,Yes,Yes,Yes,No,No,5,4,5,3,4,5,0,10,11,10,FALSE
+MS,M,17,U,GT3,T,1,2,Other,Other,Course,Father,1,1,1,No,Yes,No,Yes,Yes,No,Yes,Yes,5,3,5,5,5,1,12,6,7,7,TRUE
+MS,M,16,U,LE3,T,4,3,Other,Other,Course,Father,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,2,5,1,5,5,8,14,12,13,FALSE
+MS,M,17,R,LE3,T,2,2,Services,Services,Other,Mother,3,4,1,No,Yes,No,No,Yes,Yes,No,No,1,3,5,3,5,3,2,10,8,9,TRUE
+MS,M,17,R,GT3,T,2,2,Other,Other,Course,Mother,3,1,1,No,Yes,No,No,No,Yes,Yes,No,4,4,5,1,2,5,0,10,9,9,TRUE
+MS,M,16,R,GT3,T,2,1,Other,Services,Reputation,Mother,2,2,0,No,No,No,Yes,Yes,Yes,Yes,No,5,2,1,1,1,2,0,8,7,0,TRUE
+MS,M,18,U,LE3,T,4,4,At Home,Health,Home,Mother,1,4,0,No,Yes,No,Yes,Yes,No,Yes,Yes,5,5,5,5,5,5,2,5,6,6,TRUE
+MS,M,17,U,LE3,T,4,4,Other,Services,Home,Mother,1,3,0,No,Yes,No,No,Yes,Yes,Yes,No,4,4,3,1,2,5,0,15,14,16,FALSE
+MS,M,16,U,LE3,T,2,2,Services,Services,Other,Mother,4,3,0,No,No,No,No,Yes,Yes,No,No,5,1,3,2,2,3,0,10,9,10,FALSE
+MS,M,17,U,GT3,T,3,3,Services,Services,Home,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,4,1,4,5,5,3,8,7,10,9,TRUE
+MS,M,17,U,GT3,T,1,1,At Home,Services,Other,Mother,3,2,0,No,No,No,No,Yes,Yes,Yes,Yes,5,1,3,3,3,1,0,10,10,10,FALSE
+MS,M,16,U,GT3,T,2,1,Health,Services,Other,Mother,2,2,0,No,No,No,No,No,Yes,Yes,Yes,4,2,2,1,4,5,2,9,7,8,TRUE
+MS,M,16,U,LE3,T,4,4,Teacher,Health,Other,Father,1,1,0,No,Yes,No,No,Yes,Yes,Yes,No,4,1,2,2,5,5,0,11,12,12,FALSE
+MS,M,15,R,GT3,T,1,2,Other,Services,Course,Mother,3,2,0,No,Yes,No,Yes,Yes,Yes,No,No,5,5,5,1,3,5,11,9,11,10,FALSE
+MS,M,15,U,LE3,A,2,2,Other,Other,Reputation,Mother,3,4,0,No,Yes,No,Yes,Yes,Yes,No,No,5,4,5,2,3,5,8,13,14,14,FALSE
+MS,M,15,U,LE3,A,2,1,Services,Services,Course,Mother,1,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,3,3,1,2,5,11,12,13,12,FALSE
+MS,M,17,R,GT3,T,4,4,Health,Other,Course,Father,3,1,3,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,3,1,3,5,2,9,9,8,TRUE
+MS,M,17,R,LE3,T,1,3,Other,Other,Course,Father,2,1,0,No,No,No,Yes,Yes,Yes,No,Yes,5,1,2,3,3,5,2,12,11,12,FALSE
+MS,M,17,U,GT3,T,3,4,Services,Other,Other,Mother,1,2,1,No,Yes,No,Yes,No,Yes,Yes,Yes,5,4,4,3,4,5,8,8,9,8,TRUE
+MS,M,16,R,LE3,T,4,1,Other,At Home,Other,Father,1,1,0,No,No,No,No,Yes,Yes,Yes,No,4,1,2,2,1,2,0,10,11,11,FALSE
+MS,M,16,U,LE3,A,2,2,Other,Services,Course,Father,2,2,0,No,Yes,No,No,No,Yes,Yes,Yes,4,1,2,2,2,5,0,12,13,13,FALSE
+MS,M,17,U,GT3,T,3,2,Other,Other,Other,Father,2,2,0,No,Yes,Yes,No,Yes,Yes,Yes,No,4,1,2,2,2,1,0,13,14,13,FALSE
+MS,M,19,U,GT3,T,1,1,Other,Other,Other,Mother,1,2,2,No,Yes,No,Yes,Yes,No,Yes,No,4,4,3,3,4,4,2,9,9,10,FALSE
+MS,M,17,U,LE3,A,1,0,Other,Other,Home,Mother,1,1,0,No,No,No,No,Yes,Yes,No,Yes,4,1,2,1,1,5,4,11,11,12,FALSE
+MS,M,16,R,LE3,T,1,2,Other,At Home,Course,Mother,1,1,0,No,No,No,No,Yes,Yes,No,No,4,4,4,2,4,5,4,9,10,11,FALSE
+MS,M,17,R,GT3,T,2,2,Other,Other,Course,Mother,2,1,0,No,No,No,Yes,Yes,No,No,Yes,5,5,5,3,5,5,0,8,13,10,FALSE
+MS,M,18,R,GT3,T,1,0,At Home,At Home,Course,Other,3,1,1,Yes,Yes,No,No,Yes,Yes,No,No,4,3,2,1,1,4,0,12,12,13,FALSE
+MS,M,17,R,GT3,T,1,1,Other,Services,Course,Mother,2,1,0,No,Yes,No,Yes,No,Yes,Yes,Yes,4,5,5,1,3,2,0,10,9,10,FALSE
+MS,M,18,U,LE3,T,1,1,At Home,At Home,Course,Mother,2,2,0,No,Yes,No,Yes,Yes,Yes,No,No,4,3,3,1,4,5,6,10,9,10,FALSE
+MS,M,17,U,GT3,T,2,2,Other,Other,Course,Mother,1,1,1,No,No,No,Yes,Yes,Yes,No,Yes,1,2,1,2,3,5,0,7,0,0,TRUE
+MS,M,16,R,GT3,T,3,2,Services,Other,Course,Father,2,1,0,No,No,No,No,Yes,Yes,Yes,No,4,5,5,2,3,5,2,11,9,10,FALSE
+MS,M,16,R,LE3,T,1,1,At Home,Other,Course,Mother,2,1,0,No,No,No,Yes,Yes,Yes,Yes,No,4,5,5,2,4,5,0,10,10,9,TRUE
+MS,M,18,R,GT3,T,1,1,Services,Other,Course,Other,2,1,1,No,Yes,No,No,Yes,No,Yes,Yes,5,3,3,2,3,5,2,9,7,9,TRUE
+MS,M,18,R,GT3,T,3,2,Services,Other,Course,Mother,1,1,1,No,No,No,No,Yes,No,Yes,No,2,3,1,2,2,5,0,4,0,0,TRUE
+MS,M,19,U,GT3,T,3,2,At Home,Services,Course,Mother,2,1,3,No,No,No,Yes,Yes,Yes,No,No,3,2,1,1,1,3,4,6,11,9,TRUE
+MS,M,18,U,GT3,T,3,3,At Home,At Home,Course,Mother,1,2,2,No,Yes,No,Yes,Yes,No,Yes,No,4,4,5,1,3,3,9,4,8,8,TRUE
+MS,M,16,R,GT3,T,2,2,Services,Services,Course,Mother,2,1,0,No,Yes,No,Yes,Yes,Yes,Yes,Yes,5,4,3,2,4,4,6,7,8,8,TRUE
+MS,M,19,U,GT3,T,2,1,At Home,Other,Course,Other,2,1,3,No,No,No,Yes,No,No,Yes,Yes,4,4,3,1,3,5,4,8,9,9,TRUE
+MS,M,20,R,GT3,T,1,1,Other,Other,Course,Other,2,1,1,No,Yes,No,No,Yes,No,Yes,Yes,4,4,3,2,4,4,12,8,11,10,FALSE
+MS,M,18,R,GT3,T,3,2,Other,Other,Course,Mother,2,1,0,No,Yes,No,No,No,Yes,Yes,No,2,5,5,5,5,5,8,9,10,11,FALSE
+MS,M,19,R,GT3,T,1,1,Other,Services,Home,Other,3,2,1,No,No,No,No,Yes,Yes,Yes,No,5,4,4,3,3,2,8,10,9,11,FALSE
+MS,M,17,U,GT3,T,3,3,Health,Other,Course,Mother,2,2,1,No,Yes,No,No,Yes,Yes,Yes,No,4,5,4,2,3,3,4,8,9,10,FALSE
+MS,M,18,U,LE3,T,1,3,At Home,Services,Course,Mother,1,1,0,No,No,No,No,Yes,No,Yes,Yes,4,3,3,2,3,3,0,9,10,9,TRUE
+MS,M,19,R,GT3,T,1,1,Other,Other,Home,Other,3,1,1,No,Yes,No,No,Yes,Yes,Yes,No,4,4,4,3,3,5,4,8,9,10,FALSE
+MS,M,18,U,LE3,T,4,4,Services,Other,Reputation,Mother,1,1,0,No,Yes,No,Yes,Yes,Yes,Yes,No,5,4,5,1,1,5,3,17,17,17,FALSE
+MS,M,18,U,LE3,T,1,2,At Home,Services,Home,Mother,2,1,0,No,Yes,No,No,No,Yes,No,No,4,1,4,5,5,1,8,10,11,11,FALSE
+MS,M,18,R,GT3,T,4,4,At Home,Services,Other,Mother,3,1,0,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,5,5,1,1,1,5,12,13,14,FALSE
+MS,M,17,R,GT3,T,1,1,Other,Services,Other,Father,3,1,0,No,No,No,No,No,No,No,No,4,2,3,3,4,4,4,12,13,14,FALSE
+MS,M,17,R,GT3,T,4,3,Services,Other,Home,Mother,2,2,1,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4,5,5,1,3,2,4,10,11,11,FALSE
+MS,M,18,U,LE3,T,1,1,Other,Services,Home,Father,2,1,0,No,No,No,No,No,Yes,Yes,Yes,3,3,2,1,2,3,2,14,13,14,FALSE
+MS,M,18,R,GT3,T,1,3,At Home,Other,Course,Mother,2,2,0,No,Yes,Yes,No,Yes,Yes,No,No,3,3,4,2,4,3,0,8,10,9,TRUE
+MS,M,18,U,LE3,T,4,4,Teacher,Services,Other,Mother,2,3,0,No,No,No,No,Yes,Yes,Yes,Yes,4,2,2,2,2,5,0,15,16,16,FALSE
+MS,M,18,R,LE3,T,1,2,At Home,Services,Other,Father,3,1,0,No,Yes,No,Yes,Yes,No,Yes,Yes,4,3,3,2,3,3,3,9,10,10,FALSE
+MS,M,18,U,GT3,T,4,4,Teacher,Teacher,Home,Father,1,2,0,No,No,No,Yes,No,Yes,Yes,No,3,2,4,1,4,2,4,17,18,19,FALSE
+MS,M,18,R,GT3,T,2,1,Other,Other,Other,Mother,2,1,0,No,No,No,Yes,No,Yes,Yes,Yes,4,4,3,1,3,5,0,7,7,0,TRUE
+MS,M,17,U,GT3,T,2,3,Other,Services,Home,Father,2,2,0,No,No,No,Yes,Yes,Yes,Yes,No,4,4,3,1,1,3,4,14,15,16,FALSE
+MS,M,19,R,GT3,T,1,1,Other,Services,Other,Mother,2,1,1,No,No,No,No,Yes,Yes,No,No,4,3,2,1,3,5,0,5,8,0,TRUE
+MS,M,18,R,GT3,T,4,2,Other,Other,Home,Father,2,1,1,No,No,Yes,No,Yes,Yes,No,No,5,4,3,4,3,3,0,7,7,0,TRUE
+MS,M,17,U,LE3,T,3,1,Services,Services,Course,Mother,2,1,0,No,No,No,No,No,Yes,Yes,No,2,4,5,3,4,2,6,10,10,10,FALSE
+MS,M,18,R,LE3,T,3,2,Services,Other,Course,Mother,3,1,0,No,No,No,No,No,Yes,Yes,No,4,4,1,3,4,5,4,10,11,11,FALSE
